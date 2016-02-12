@@ -1,0 +1,40 @@
+Mode d'emploi du logiciel FANTOIR.EXE
+version 28-01-2016
+Georges FAURE
+georges.faure.psv@free.fr
+
+
+L'utilitaire FANTOIR.EXE permet d'obtenir :
+- Un fichier "COMMUNES.txt" avec la totalité des communes françaises avec leur département.
+- 101 fichiers "départementaux" contenant l'ensemble des voies et lieux-dits par commune.
+  exemple : LIEU-54.txt
+NB : Pour le nombre de communes, PARIS, LYON et MARSEILLE représentent une seule commune
+pour chaque ville.
+
+
+Le fichier des données "FANTOIR" est à télécharger sur le site : 
+www.data.gouv.fr/fr/datasets/fichier-fantoir-des-voies-et-lieux-dits/
+Ce fichier, en accès libre par téléchargement ,contient pour chacune des communes de FRANCE
+métropolitaine et des départements d'outre-mer l'ensemble des voies (rues, ...) et lieux-dits.
+Sa production est annuelle.
+
+Conseil : Le fichier compressé sera privilégié au vu de la grande taille du fichier brut.
+Afin d'utiliser l'utilitaire FANTOIR.exe, on doit décompresser le fichier ainsi téléchargé.
+Nommer le fichier obtenu "FANTOIRD" (sans suffixe).La dernière lettre D pour fichier décompressé.
+L'abscence de millésime dans le nom du fichier permet une utilisation permanente du logiciel.
+
+
+Pour pouvoir lancer le logiciel FANTOIR.EXE il faut :
+Copier le fichier des données FANTOIRD à la racine du disque C de l'ordinateur.
+On peut copier également le logiciel FANTOIR.EXE sur l'ordinateur (emplacement au choix).
+Lancer à présent FANTOIR.EXE. Le traitement dure entre 5 et 10 minutes.
+
+NB :
+Les fichiers obtenus sont des fichiers texte à visualiser avec le bloc-notes par exemple.
+De plus, les fichiers peuvent étre ouverts avec EXCEL (lancer EXCEL d'abord) :
+- Pour le fichier "COMMUNES.txt" choisir l'option délimité puis séparateur virgule.
+- Pour les fichiers "départementaux" choisir l'option largeur fixe puis espace et positionner
+  le curseur juste devant le mot commune.
+Sauvegarder alors au format tableur.
+
+  
