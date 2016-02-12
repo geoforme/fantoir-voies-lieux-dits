@@ -1,0 +1,3322 @@
+20151101
+976         MAYOTTE                       
+           commune :     ACOUA                          departement : MAYOTTE                       
+QUA        TSIMTOUHI                  
+LIEU-DIT   ACOUA JAMAIQUE             
+LIEU-DIT   AGNALA BOUNORA             
+LIEU-DIT   AGNALA MIHINGUI            
+LIEU-DIT   AGNALAKI                   
+LIEU-DIT   AMBOUNGOUBE                
+LIEU-DIT   ANKIRAKA                   
+LIEU-DIT   ANTSOUMOUKOUHOU            
+LIEU-DIT   BEMOURANDRA                
+LIEU-DIT   HAPONDROI                  
+LIEU-DIT   LAZARE                     
+LIEU-DIT   MADJABALINI                
+LIEU-DIT   MAEVARANOU                 
+LIEU-DIT   PLACE DE LA MAIRIE         
+LIEU-DIT   MAHOJANI                   
+LIEU-DIT   MAPOUERA                   
+LIEU-DIT   MAROUVATOU                 
+LIEU-DIT   MTSANGADOUA                
+LIEU-DIT   QUAI BANDRANI              
+LIEU-DIT   QUARTIER ACOUA 3           
+LIEU-DIT   QUARTIER ANGLA MKIRINI     
+LIEU-DIT   QUARTIER BOUENI            
+LIEU-DIT   QUARTIER MABOUNGANI        
+LIEU-DIT   QUARTIER MANGAUA MAGNINTSI 
+LIEU-DIT   QUARTIER MARVATOU 2        
+LIEU-DIT   QUARTIER MGIHARI           
+LIEU-DIT   QUARTIER TSIMKOUHI         
+LIEU-DIT   RESERVE FORESTIERE         
+LIEU-DIT   TSIRAKA KAHIRIMTROU        
+LIEU-DIT   VILLAGE D'ACOUA            
+ROUTE      DEPARTEMENTALE             
+ROUTE      DU DISPENSAIRE             
+RUE        ANGNALA MHINGA             
+RUE        BACAR VAGABOU              
+RUE        BATSIMI                    
+RUE        BOIRA SOILIHI              
+RUE        BOTOU                      
+RUE        CAVANI BOTO                
+RUE        CHARAN                     
+RUE        DADI ROUBI                 
+RUE        DADI ZARA                  
+RUE        GAMME                      
+RUE        DE L'HOTEL DE VILLE        
+RUE        LOUGOUZA                   
+RUE        MANGUA BAMARI              
+RUE        DE LA MATERNELLE           
+RUE        MATOUWA                    
+RUE        MRONIFADI                  
+RUE        MRONIPOPO                  
+RUE        MZE MENA                   
+RUE        DE LA PLAGE                
+RUE        PASCAL                     
+RUE        SAID TOUMBOU               
+RUE        TALATA                     
+RUE        ZAOUIYANI                  
+CD         1                          
+           commune :     BANDRABOUA                     departement : MAYOTTE                       
+QUA        HACHICADRA - BOUYOUNI      
+LIEU-DIT   BANDRABOUA NIAMBO          
+LIEU-DIT   BANDRADZIA                 
+LIEU-DIT   BANDRAMAJI                 
+LIEU-DIT   BOUYOUNI                   
+LIEU-DIT   CAROU M'BAMBO              
+LIEU-DIT   CHISSIOUA CHONGOCHAMAJI    
+LIEU-DIT   DZOUMOGNE                  
+LIEU-DIT   GAGANI                     
+LIEU-DIT   HA COMBA                   
+LIEU-DIT   HAMOURO HANDREMA           
+LIEU-DIT   HANDREMA                   
+LIEU-DIT   HASSIOURE                  
+LIEU-DIT   ILE VERTE                  
+LIEU-DIT   KAVALAMBOUA                
+LIEU-DIT   LA VIGIE HA M'GUEREZA      
+LIEU-DIT   MAHOJANI                   
+LIEU-DIT   MANGA BE                   
+LIEU-DIT   MAOUENI                    
+LIEU-DIT   MASSULAHA                  
+LIEU-DIT   M'DALLAH ASSANI            
+LIEU-DIT   MERE                       
+LIEU-DIT   M'GOUEDAJOU                
+LIEU-DIT   MITSENI                    
+LIEU-DIT   M'LIMA HASSOVE             
+LIEU-DIT   M'RIDHIOI                  
+LIEU-DIT   M'ROINIOMBE                
+LIEU-DIT   M'TSANGAMBOUA              
+LIEU-DIT   POINTE BANDRABOUA          
+LIEU-DIT   RESERVE FORESTIERE DZOUMOG 
+LIEU-DIT   RETENUE COLLINAIRE DZOUMOG 
+LIEU-DIT   TANABE - DZOUMOGNE         
+LIEU-DIT   TARAPACHA                  
+LIEU-DIT   VILLAGE DE BANDRABOUA      
+RUE        ALI SOILIHI - DAPANI       
+RUELLE     ADE                        
+RUELLE     AHMED                      
+RUELLE     MOSQUEE ANCIENNE           
+RUE        MOILIMOU SOHA ANTHOUMANI   
+RUE        DE L'AVENIR - MTSANGAMBOUA 
+RUELLE     HALIMA BABA                
+RUE        BABAMOINA                  
+RUELLE     OILI BACAR                 
+RUELLE     ALI BACO                   
+RUE        BAHAOUI - HANDREMA         
+RUE        YOUNOUSSA BAMANA           
+RUE        MATERNELLE BANDRABOUA      
+RUE        BOUGOU TERRIN - BAMBO      
+CHEMIN     BOBOKA - NYAMBADAO         
+RUELLE     DU PETIT BANGA             
+RUE        BACOCO CHIKOUTRI - HANDREM 
+RUE        BAHAHOUI                   
+RUELLE     BASAMOINA                  
+RUE        BAZA                       
+RUE        BAZAMA                     
+RUE        BEZA                       
+RUE        DE LA BIBLIOTHEQUE         
+RUELLE     BIDJONI                    
+RUELLE     BILAN - HANDREMA           
+RUELLE     MADI BOINA                 
+RUELLE     BOINAIDI - HANDREMA        
+RUELLE     BOKASSA - HANDREMA         
+RUELLE     BOMBA                      
+RUE        BOTO                       
+RUELLE     MRANI BOUCHINI             
+RUE        BOUENI M TITI              
+IMPASSE    BOUYOUNI MATERNELLE        
+RUE        DE L'ANCIEN BOUYOUNI       
+RUELLE     BOYE                       
+RUE        CAVANI                     
+RUE        DU CHATEAU D'EAU           
+RUE        CHEHOU M'LILA - HANDREMA   
+RUE        DU CIMETIERE               
+IMPASSE    BOINA M'COLO               
+RUE        COMBO - HANDREMA           
+RUELLE     COMBO AHMED - MTSANGAMBOUA 
+PLACE      DU CONGRES                 
+RUELLE     CONORO                     
+RUE        DU 15 DECEMBRE 2008        
+RUE        ZAINA M'DERE               
+RUELLE     DIMASSI                    
+RUELLE     DU DISPENSAIRE - HANDREMA  
+RUE        BACARI DJOUMOI             
+RUE        PLACE CENTRALE             
+RUELLE     M'LIMA DONGO               
+RUELLE     DRAGO                      
+RUE        DE L ECOLE MATERNELLE      
+RUE        DZIALAKAVANI               
+RUE        MATERNELLE DZOUMOGNE       
+RUE        DU CHATEAU D'EAU           
+RUE        FAZATI                     
+RUE        DE L'ANCIEN TERRAIN FOOT   
+RUE        DU FOYER                   
+RUELLE     GALO                       
+RUE        DU GARAGE                  
+RUE        DE LA GENDARMERIE          
+PLACE      GNAMBO                     
+RUELLE     AHAMADA GOBO               
+AVENUE     M'GODAJOU                  
+RUELLE     GOSSI                      
+RUELLE     GOUENA - HANDREMA          
+RUELLE     DE L'HACINDA               
+RUE        HACOMBA                    
+RUELLE     HADJOU                     
+RUE        HAGONDA                    
+RUELLE     HAMIDA MKANI - HANDREMA    
+RUE        HAMIDOUNI                  
+RUELLE     HAOUPECHE                  
+RUELLE     HASSANI MOUSTOIFA-HANDREMA 
+RUELLE     ISSOUFI - HANDREMA         
+RUE        MANGA M'KAKASSI            
+RUE        RAMA KARI                  
+RUE        MRONI KAWENI               
+RUELLE     KITOULOULOUNI              
+RUE        KOUROUGNATSOU              
+IMPASSE    BAKARI KOUSSOU             
+RUELLE     M'LAMANGA                  
+RUELLE     LEBO - HANDREMA            
+RUELLE     LEGOUVE - HANDREMA         
+RUELLE     M'LIMANI                   
+RUELLE     MABARAZA                   
+CHEMIN     DE L ECOLE MATERNELLE - DA 
+RUELLE     MABONBON                   
+RUE        BE MADI                    
+RUELLE     MADJIDI                    
+RUE        MADJINDA                   
+RUE        MAEVANTANA                 
+RUE        MAFOUMBOUNI                
+RUE        MAHAFIDHOU                 
+RUELLE     MAHAVITA                   
+RUE        MAHIZYO                    
+RUELLE     MAIMOUNE                   
+RUE        MAINOUZOU                  
+ESPLANADE  M FRANPEJOU - DARANI       
+CHEMIN     FOLOCOTSONI - DAPANI       
+RUELLE     DE LA MAIRIE               
+RUE        DE LA MAISON               
+RUELLE     MALBORO - HANDREMA         
+RUE        MAJINBINI                  
+RUELLE     CHANFI MALIDI              
+RUELLE     MAMIRADJI - HANDREMA       
+RUE        MAMSIMA                    
+PLACE      MANDELA                    
+RUELLE     MANMADI - HANDREMA         
+RUELLE     MANSOIBOU                  
+RUELLE     MARAHABA                   
+RUELLE     ZAMAI MARI                 
+RUELLE     MASOIFOU                   
+IMPASSE    MATRA                      
+RUELLE     MAVOUNA                    
+RUELLE     MAYELE - HANDREMA          
+RUELLE     MAZALI                     
+RUE        ZAINA M DERI               
+RUE        MDJANGA                    
+RUE        MDOIHOMA                   
+RUE        MERESSE                    
+IMPASSE    MGUERESA - DZOUMOGNE       
+AVENUE     FRANCOIS MITTERRAND        
+RUELLE     MLAMANGA - DZOUMOGNE       
+RUELLE     MOIMOILE                   
+RUELLE     MOSQUEE                    
+RUE        ANKABATI MOUSSA            
+RUELLE     MTSAPOUA -VILL BANDRABOUA  
+RUELLE     MTSODOJOU                  
+RUELLE     MTSOPOJOU -VILL BANDRABOUA 
+RUE        DAHALANI MZE               
+RUELLE     OILI MOILIME MZE           
+RUELLE     M'NANASSIJOU               
+RUELLE     NANOU                      
+RUELLE     MRO WA NGALABE             
+CHEMIN     MRO WA GNOMBE              
+RUELLE     MADI OILI                  
+RUELLE     OUCHONA                    
+RUELLE     COCO OUSSENI               
+RUELLE     DJOUMOI OUSSENI            
+RUELLE     PAHE                       
+RUELLE     PAHOUENI                   
+RUELLE     PAOLO                      
+RUELLE     PAPADJO                    
+RUE        PONT                       
+RUELLE     POTELEYA                   
+RUELLE     POUNOUNGUI                 
+RUE        PPF                        
+RUE        DE LA PREFECTURE           
+RUE        RABA                       
+RUELLE     RACHIDI                    
+RUELLE     BABA RAMA                  
+RUE        DE REA                     
+RUE        RFO                        
+RUE        ABASSE SAID                
+RUELLE     SANS S                     
+RUELLE     SEFOU                      
+IMPASSE    SIASSA                     
+CHEMIN     SICTOM                     
+RUE        M'DOIHOMA SILAHI           
+RUE        SIM                        
+RUELLE     AHAMADA SOILIHI            
+RUE        DE LA SOUSSOTIE - HANDREMA 
+RUE        OUSSENI SOUFFOU            
+RUE        SOUNDOUSSIA                
+RUE        DU SOUVENIR                
+RUE        STADE                      
+IMPASSE    STOPIRA                    
+RUELLE     COCO TALE                  
+RUE        ASSANE TAOIKALI            
+RUELLE     TAVERNA                    
+RUE        TCHATCHA                   
+RUELLE     TCHATCHO                   
+RUELLE     TERE                       
+RUELLE     M'MANGA M'TSAHOUA          
+RUELLE     M'TSAPOUA                  
+RUELLE     CENTS VILLAS - HANDREMA    
+RUE        DE L'HOTEL DE VILLE        
+RUE        M'VOULANA                  
+RUE        BELLE VUE                  
+RUELLE     WALAROU                    
+RUE        YLANG                      
+RUE        SIAKA ZAIDA                
+RUELLE     ZAKARIA                    
+IMPASSE    ABDOU M'ZIANI              
+RUELLE     ZAMABINA                   
+CHEMIN     MOSQUEE DU VENDREDI - DAPA 
+CHEMIN     MOUHAJOUJOU - NYAMBADAO    
+RUELLE     MOSQUEE DU VENDREDI - NYAM 
+RUE        MALANA - NYAMBADAO         
+ROUTE      NATIONALE 3                
+CHEMIN     DE LA PLAGE - DAPANI       
+CD         2                          
+RUELLE     M RONI BE - BAMBO          
+CHEMIN     M RONI DOVA - DAPANI       
+CD         12                         
+RUELLE     DU STADE - NYAMBADAO       
+ROUTE      DE L'AVENIR                
+CHEMIN     TSANDZA RAFA - DAPANI      
+ROUTE      DU COLLEGE                 
+ROUTE      DEPARTEMENTALE             
+ROUTE      DEPARTEMENTALE 2           
+N          1                          
+ROUTE      NATIONALE 1                
+           commune :     BANDRELE                       departement : MAYOTTE                       
+QUA        CANSOILIHI                 
+QUA        DASS                       
+LIEU-DIT   BAMBO EST                  
+LIEU-DIT   BANDRA M'HOUMA             
+LIEU-DIT   BENARA                     
+LIEU-DIT   BENARA SUD                 
+LIEU-DIT   BOINOIRIJOU                
+LIEU-DIT   BONOVO                     
+LIEU-DIT   BOUENI NYAMBADAO           
+LIEU-DIT   CARRIERE MOUTSAMOUDOU      
+LIEU-DIT   COLLEGE DE BANDRELE        
+LIEU-DIT   DAPANI                     
+LIEU-DIT   GNAMBO BOLE                
+LIEU-DIT   GNAMBO TITI                
+LIEU-DIT   HA CAGE                    
+LIEU-DIT   HAMOURO                    
+LIEU-DIT   ILOT BAMBO                 
+LIEU-DIT   ILOT BANDRELE              
+LIEU-DIT   ILOT LA POINTE MOUGNENDRE  
+LIEU-DIT   KAVANI                     
+LIEU-DIT   M'GNAMBANI                 
+LIEU-DIT   MILOUANI                   
+LIEU-DIT   MOUGNENDRE                 
+LIEU-DIT   MOUHOUNE                   
+LIEU-DIT   M'RERENI                   
+LIEU-DIT   M'RO MOHOU                 
+LIEU-DIT   M'RONI ALIMASSI            
+LIEU-DIT   M'ROPATSE                  
+LIEU-DIT   M'TSAMOUDOU                
+LIEU-DIT   M'TSANGA MILOUANI          
+LIEU-DIT   M'TSANGANI                 
+LIEU-DIT   M'TSATROUNDROU             
+LIEU-DIT   M'VOUHOUNI                 
+LIEU-DIT   NABAWANE                   
+LIEU-DIT   NYAMBADAO                  
+LIEU-DIT   POTELEA                    
+LIEU-DIT   PPF KAVANI                 
+LIEU-DIT   RASSI MOUGNENDRE           
+LIEU-DIT   RESERVE DE BANDELI         
+LIEU-DIT   RESERVE FOREST BENARA SUD  
+LIEU-DIT   RESERVE FOREST DE CHOUNGUI 
+LIEU-DIT   RESERVE FORESTIERE DAPANI  
+LIEU-DIT   RESERVE FOREST DE HAJANGUA 
+LIEU-DIT   SAKOULI                    
+LIEU-DIT   SAZILEY                    
+LIEU-DIT   SEFE                       
+LIEU-DIT   SIM MOUGNENDRE             
+LIEU-DIT   TRAMBATSINI                
+LIEU-DIT   TRERENI                    
+LIEU-DIT   VILLAGE DE BANDRELE        
+RVE        SUD                        
+RUE        ALI  SOILIHI - DAPANI      
+RUE        BOUGOU TERRIN - BAMBO EST  
+RUELLE     BOBOKA - NYAMBADAO         
+CHEMIN     BOBOKA - NYAMBADAO         
+RUE        CENTRALE - BAMBO EST       
+CHEMIN     MRONI DOVA - DAPANI        
+           DELE                       
+RUE        DASS                       
+ART        ANCIENNE ROUTE N 3         
+COUR       DALLAGE MARIAME ANKILI     
+RUE        FOUNDI ANROUTOU            
+RUE        DE L'ANTENNE               
+PASSERELLE BAHAIDARI                  
+RUELLE     BAITISSALAM                
+ESPLANADE  M FRANPEJOU - DAPANI       
+CHEMIN     FOLOCOTSONI - DAPANI       
+RUE        BAMBA                      
+RUE        DE LA MOSQUEE - BAMBO EST  
+RUE        D'OCEAN BAMBO              
+CHEMIN     BANDARSALAMA               
+CHEMIN     BANDRAJOU                  
+CHEMIN     KONDROJOU BAS              
+CHEMIN     MAMA BE                    
+RUELLE     BOBOKA                     
+RUE        MOSQUEE BONOVO             
+CHEMIN     MOSQUEE CEFE               
+RUE        CELEA                      
+CHEMIN     PARKING CENTRAL - HAMOURO  
+CHEMIN     MOILIM CHAHIBOU            
+CHEMIN     CHILINDROJOU               
+CHEMIN     DU CIMETIERE               
+CHEMIN     MOSQUEE VENDREDI - MTSAMOU 
+RUE        DU LOTISSEMENT SIM         
+CHEMIN     MASADROU - MTSAMOUDOU      
+CHEMIN     MOSQUEE DU VENDREDI - DAPA 
+RUELLE     MOSQUEE DU VENDREDI - NYAM 
+CHEMIN     MOUHAJOUJOU - NYAMBADAO    
+RUE        MALANA - NYAMBADAO         
+CHEMIN     DE LA MOSQUEE - HAMOURO    
+CHEMIN     MADI ABDOU - HAMOURO       
+CHEMIN     MALGACHE - HAMOURO         
+RUELLE     MAO ASSANI - HAMOURO       
+RUE        MOSQUEE DE VENDREDI - DAPA 
+CHEMIN     DE L'ECOLE MATERNELLE - DA 
+RUE        DU COLLEGE                 
+CHEMIN     SOIDIKI M'COLO             
+RUE        DE LA COOPERATIVE          
+RUE        COPEMAY                    
+RUE        DALLAS                     
+RUE        DISMA                      
+ROUTE      NATIONALE 3                
+ROUTE      NATIONALE 3 - BAMBO EST    
+RUE        ANCIEN DISPENSAIRE         
+COUR       DALLAGE DOLPHE             
+RUE        TOURNEE DOS                
+RUELLE     PLAGE DZONA                
+RUE        ALI FAHARDINE              
+RUE        STADE DE FOOT              
+COUR       DALLAGE ASSANI FOUNDI      
+CHEMIN     GNAMBO                     
+COUR       DALLAGE HADIA              
+CHEMIN     M'HAJOUJOU                 
+TRA        MADI HAMADI                
+CHEMIN     HADIA HAMISSI              
+RUELLE     HAOIBOUCHIE                
+RUE        DE L'HOPITAL               
+RUE        DU FOYER DES JEUNES        
+CHEMIN     DE LA PLAGE - DAPANI       
+RUE        PLACE CENTRALE - BAMBO EST 
+RUE        DES JEUX                   
+RUE        KAVANI                     
+RUE        KONDROJOU                  
+CHEMIN     LAPIN                      
+RUE        DU LOTISSEMENT             
+CHEMIN     MACHAKA                    
+CHEMIN     BAMJA MADI                 
+CHEMIN     MAEVANTANA                 
+RUE        TIMPOU MAHASSAKI           
+RUE        DE LA MAIRIE               
+CHEMIN     4 - NYAMBADAO              
+RUE        MALALA                     
+RUELLE     MAMA                       
+VOIE       ACCES MAMECHA              
+RUELLE     MANGAJOU                   
+CHEMIN     MARAOU                     
+RUELLE     M RONI BE                  
+CHEMIN     RACHIDI - HAMOURO          
+RUELLE     DU MARCHE                  
+CHEMIN     MASSADROU                  
+RUE        ECOLE MATERNELLE           
+CHEMIN     MATSIMINOU                 
+RUE        MAZOUHOURA                 
+RUE        MBONOIRIJOU                
+RUELLE     BACO MBOUCHI               
+CHEMIN     MADI MDZOUANI              
+CHEMIN     MFENESSIJOU                
+RUE        BOUCLE MFILAOJOU           
+RUELLE     MANGA MILISSI              
+CHEMIN     FOUNDI MILITERA            
+RUELLE     MKOUMAFEJOU                
+CHEMIN     MOIMSIMOU                  
+CHEMIN     MOIRIZIKI                  
+RUE        DE LA MOSQUEE              
+RUE        BOUCLE MOUGNENDRE          
+RUE        BOUCLE MOUGNENDRE 2        
+PLACE      MRONI                      
+RUE        M ROPATSE                  
+RUE        MTSANGANI                  
+CHEMIN     TSANDZA RAFA - DAPANI      
+RUE        MTSINAVOUJOU               
+CHEMIN     MADI MZE                   
+CHEMIN     ALI MZOUNGOU               
+RUE        M NARAJOU                  
+RUE        OIDJOUMOI                  
+RUE        PAHWENI                    
+RUE        DE LA PLAGE                
+ROUTE      DE LA PLAGE                
+RUE        POTELEA                    
+RUE        ECOLE PRIMAIRE             
+RUELLE     100 VILLAS - NYAMBADAO     
+RUE        PRINCIPALE                 
+RUE        DE LA PLACE PUBLIQUE       
+CHEMIN     DE LA RIVIERE              
+CHEMIN     MIKIDADI SAID              
+RUELLE     ECO MUSEE DU SEL           
+IMPASSE    SELEMANI                   
+CHEMIN     DE LA SNIE                 
+CHEMIN     ADINANI SOUFFOU            
+RUE        DU STADE                   
+RUELLE     TAO TAOUJOU                
+CHEMIN     TARMI                      
+RUE        ASSANI TCHAMBO             
+RUE        BOUNGOU TERRAIN            
+RUE        GNAMBO TITI                
+CHEMIN     TOIHIFATI                  
+RUE        MRONI TRONDRO              
+COUR       DALLAGE TSANDZARAFA        
+RUE        DE LA MOSQUEE VENDREDI     
+CHEMIN     DU PARKING DU VILLAGE      
+RUE        DES 100 VILLAS             
+CD         4                          
+N          3 - NYAMBADAO              
+           commune :     BOUENI                         departement : MAYOTTE                       
+LIEU-DIT   BAMBO OUEST                
+LIEU-DIT   BANDRAKOUNI                
+LIEU-DIT   BANDRAZIVA                 
+LIEU-DIT   BOINOIRIJOU                
+LIEU-DIT   BOUDROUNI                  
+LIEU-DIT   BOUENI                     
+LIEU-DIT   BOUGOUDRAVANI              
+LIEU-DIT   COMOJOU                    
+LIEU-DIT   DJIALIMOU                  
+LIEU-DIT   GAMAJOU                    
+LIEU-DIT   GOUELA                     
+LIEU-DIT   HALCOUMBA                  
+LIEU-DIT   HANYOUNDROU                
+LIEU-DIT   KARONI                     
+LIEU-DIT   KAVANI M'ZOUAZIA           
+LIEU-DIT   KETRABE                    
+LIEU-DIT   MABOUGANI                  
+LIEU-DIT   MAHAVAMOU                  
+LIEU-DIT   MAJIMEOUNI                 
+LIEU-DIT   MATSABOURINI               
+LIEU-DIT   M'BOUENATSA                
+LIEU-DIT   M'BOUJI                    
+LIEU-DIT   M'JIMBIANI                 
+LIEU-DIT   MLEZI ALI                  
+LIEU-DIT   M'LIMA BAMBO               
+LIEU-DIT   M'LIMA DJALIMOU            
+LIEU-DIT   M'LIMANI                   
+LIEU-DIT   MOUANATRINDRI              
+LIEU-DIT   M'RO M'TSANGANI            
+LIEU-DIT   M'TSANGA FOUMBOUNI         
+LIEU-DIT   M'TSANGA KANOUA            
+LIEU-DIT   M'TSANGA M'TITI            
+LIEU-DIT   M'ZOUAZIA                  
+LIEU-DIT   N'GOUJOU                   
+LIEU-DIT   OUVANGOUE                  
+LIEU-DIT   PLAGE DE N'GOUJA           
+LIEU-DIT   RASSI CHODONI              
+LIEU-DIT   RASSI N'GOUJA              
+LIEU-DIT   TSOURIAVA                  
+LIEU-DIT   VILLAGE DE BOUENI          
+RUE        MZE MATTOIR - MBOUANATSA   
+CD         4                          
+CD         6                          
+           commune :     CHICONI                        departement : MAYOTTE                       
+QUA        AGNABOURANO                
+QUA        ANTAPA                     
+QUA        ANEHEREZA - SOHOA          
+QUA        BAHEDJA                    
+QUA        BILAMBOU                   
+QUA        BOUNGOU BE                 
+QUA        COCONI AMBANI              
+QUA        COCONI ENTETI              
+QUA        AMBANI                     
+QUA        COCONI MADANI              
+QUA        COCONI MOUSSA VITA         
+QUA        EN PADZA - SOHOA           
+QUA        GNAMBO - SOHOA             
+QUA        CAVANI                     
+QUA        COLLEGE DE CHICONI         
+QUA        KAVANI MTSABOURI           
+QUA        MJC - SOHOA                
+QUA        MOUSSA VITA                
+QUA        MOUSSIMOU                  
+QUA        OURINI                     
+QUA        OUROVENI - SOHOA           
+QUA        ECOLE PRIMAIRE - SOHOA     
+QUA        POZOLAN - SOHOA            
+QUA        MATSABOURI                 
+LIEU-DIT   BILAMBOU                   
+LIEU-DIT   GNAMBO                     
+LIEU-DIT   HAOUTOUNGOU                
+LIEU-DIT   HAREZA                     
+LIEU-DIT   KAHANI                     
+LIEU-DIT   LALIGNA SOHOA              
+LIEU-DIT   MLIMA CHICONI              
+LIEU-DIT   OCHOUNGUI                  
+LIEU-DIT   OUROVENI                   
+LIEU-DIT   PLAGE DE SOHOA             
+LIEU-DIT   RESERVE DE CHICONI         
+LIEU-DIT   SOHOA BE                   
+LIEU-DIT   SOHOA KAVANI               
+LIEU-DIT   SOHOA KELY                 
+LIEU-DIT   SOHOA STADE                
+LIEU-DIT   VILLAGE DE CHICONI         
+RUE        ABDALLAH                   
+ROUTE      ADAMKOUZA                  
+RUE        ADANAMINA                  
+CHEMIN     ADANI ODAYA                
+PLACE      ADANKOUZA                  
+CHEMIN     ATELIER ADINANI            
+CHEMIN     AGNABOURANO                
+CHEMIN     AINES                      
+CHEMIN     ALBERT                     
+CHEMIN     MDALA ALI                  
+RUE        MDALA ALI                  
+VEN        ALIASSA                    
+VEN        OUSSENI ALLAOUI            
+RUE        ATTOUMANI AMANA            
+PLACE      AMBOIROU                   
+CHEMIN     VELOU AMISSI               
+VEN        ISSA AMISSI                
+IMPASSE    AMPOPO                     
+CHEMIN     AMPOURIAGNA                
+CHEMIN     ANDZIRIRIKI                
+CHEMIN     MAIRIE ANNEXE              
+CHEMIN     ANOUVOU                    
+RUE        CAPOQUIER                  
+RUE        CHARIF BACAR               
+RUE        BACARY                     
+ROUTE      BACARY                     
+VEN        BAHATI                     
+CHEMIN     BAMADI                     
+CHEMIN     BAMANA                     
+CHEMIN     DU BANGA                   
+RUE        DARI BARA                  
+RUE        BARABANI                   
+CHEMIN     BATAYO                     
+ROUTE      BENTSEHOU                  
+ROUTE      BILAMBOU                   
+CHEMIN     ABDALLAH BOINA             
+VEN        BOINALI                    
+VEN        BOITCHA                    
+CHEMIN     DU BOUGAINVILLIER          
+RUE        BOUNGOU BE                 
+CHEMIN     MANGA BOURY                
+CHEMIN     BOUTSI                     
+VEN        DU CAPOQUIER               
+RUE        DE LA CASCADE              
+CHEMIN     DADI CHAOURY               
+VEN        FATIMA MADI CHEIHI         
+RUE        DU MONT CHICONI            
+VEN        VITA CHILENI               
+RUE        DU CIMETIERE               
+ROUTE      DU CIMETIERE               
+CHEMIN     DU CIMETIERE COCONI        
+VEN        BOIRA COUCHA               
+RUE        DABLOUKOU                  
+CHEMIN     DABLOUKOU                  
+VEN        DAHABOU                    
+RUE        DES DECASES                
+CHEMIN     ASSANI DIMASSI             
+RUE        DU DISPENSAIRE             
+CHEMIN     DIVA                       
+CHEMIN     ASSANI DJOUMA              
+CHEMIN     ALI DJOUMOI                
+CHEMIN     DU CAPOQUIER               
+IMPASSE    DOUA                       
+PLACE      DU PONT EST                
+CHEMIN     DJOUMA FADILLAH            
+RUE        DJOUMA FADILLAH            
+RUE        EVA SOLA                   
+RUE        FRUIT A PAIN               
+VEN        FALAFA                     
+CHEMIN     ZOKY FANOUNY               
+CHEMIN     FLAMBOYANT                 
+CHEMIN     ZAMA FONTE                 
+RUE        ZAMA FONTE                 
+RUE        GAGNE                      
+VEN        GAGNE                      
+CHEMIN     DADI GOUOI                 
+CHEMIN     DU GOYAVIER                
+CHEMIN     GUINIGUINI                 
+RUE        GUINIGUINI                 
+CHEMIN     MADI HAMISSI               
+CHEMIN     HANALE                     
+PLACE      HAREZA                     
+CHEMIN     HARIRI                     
+VEN        AHMED HAROUSSI             
+CHEMIN     BOURA HOURABI              
+VEN        DU JAQUIER                 
+RUE        KALOU                      
+CHEMIN     KAMISSI                    
+CHEMIN     KAMNONOU                   
+CHEMIN     KANDIASSE                  
+CHEMIN     KAVANI M'TSABOURI          
+IMPASSE    KOUDIVA                    
+CHEMIN     DU LAC                     
+ROUTE      PARE LAVA                  
+CHEMIN     VARI LAVA                  
+CHEMIN     MOULIGE LIGE               
+RUE        MOULIGE LIGE               
+CHEMIN     LITCHI                     
+CHEMIN     MAGAZA                     
+RUE        MALAZA                     
+VEN        MALBAR                     
+RUE        MALBAR                     
+CHEMIN     ADAN MALIDI                
+CHEMIN     MALIDI                     
+CHEMIN     HALIMA MAMBO               
+RUE        DU MANGA                   
+CHEMIN     DU MANGUIER                
+IMPASSE    MAOUA                      
+IMPASSE    ZAMA MARIAME               
+ROUTE      BOUNGOU MARIDJANI          
+RUE        MAROUVATOU                 
+PLACE      DU 29 MARS 2009            
+CHEMIN     MAROU                      
+CHEMIN     MAROU VATOU                
+CHEMIN     DALILA MASSAVOU            
+CHEMIN     ECOLE MATERNELLE           
+IMPASSE    MATSABOURI                 
+RUE        MATSABOURI                 
+CHEMIN     MAZAVA                     
+RUE        MAZAVA                     
+VEN        ZAMA MAZENA                
+CHEMIN     RENI MBAKA                 
+CHEMIN     MBIROU                     
+RUE        MBIROU                     
+RUE        MAMAN MCHANGAMA            
+CHEMIN     ALI MDERE                  
+VEN        MADI MDERE                 
+PLACE      DU FRONT DE MER            
+RUE        MILA                       
+CHEMIN     MANGA MIRANTIGNI           
+RUE        DE LA MJC                  
+RUE        HASSANI MOGNE              
+VEN        MOIMOILE                   
+RUE        DE LA MOSQUEE KAVANI       
+ROUTE      MOUSSA BE                  
+RUE        MOUSSA VITTA               
+ROUTE      MOUSSIMOU RASSI            
+CHEMIN     MRACHI                     
+VEN        MTRONDRO                   
+CHEMIN     MZE                        
+RUE        BOUNGOU NAFINDRA           
+RUE        NALINDRA                   
+CHEMIN     ZAMA NDZOU                 
+CHEMIN     CIMETIERE NORD             
+RUE        DU LOTISSEMENT NORD        
+CHEMIN     ASSANI NOUHOU              
+RUE        ADANI OULAYA               
+CHEMIN     BACO OUSSEINI              
+CHEMIN     FRUIT A PAIN               
+CHEMIN     DE LA PLAGE - SOHOA        
+RUE        DU PORT DE PECHE           
+RUE        RACINI                     
+CHEMIN     RAMA TSOUNTSOU             
+VEN        RANGUY                     
+ROUTE      DE RASSI                   
+CHEMIN     RASSI                      
+CHEMIN     DE LA RAVINE               
+CHEMIN     REHEMA                     
+ALLEE      REMANOROU                  
+CHEMIN     REMANOROU                  
+RUE        REMANOROU                  
+CHEMIN     DES RESERVOIRS             
+CHEMIN     BABA RIDJA                 
+CHEMIN     DU ROSIER                  
+CHEMIN     DES ROSIERS                
+CHEMIN     ROUKIA                     
+CHEMIN     COLO SAFI                  
+CHEMIN     DES SAGES                  
+CHEMIN     ALI SAID                   
+RUE        SAMBA                      
+CHEMIN     SAMBA VATOU                
+ROUTE      ADAN SAMI                  
+CHEMIN     SAID SELEMANI              
+RUE        SAID SELEMANI              
+CHEMIN     SELEMANI                   
+RUE        DU SENAT                   
+CHEMIN     MAGASIN SIM                
+CHEMIN     DADI SINGA                 
+ROUTE      DE LA SOGEA                
+CHEMIN     EVA SOLA                   
+CHEMIN     HALIMA MADI SOUFOU         
+ROUTE      DU STADE                   
+CHEMIN     CIMETIERE SUD              
+VEN        TAPIAKA                    
+CHEMIN     ALIMA TARA                 
+CHEMIN     ATTOUMANI TCHADALA         
+CHEMIN     TCHAMBO                    
+CHEMIN     COLO TOTO                  
+RUE        MZE TOUFTROU               
+CHEMIN     ZOKI TOUMBOU               
+ROUTE      OURINI TSIDISKA            
+RUE        RAMA TSOUNTSOU             
+CHEMIN     VALA VALA                  
+PLACE      MOSQUEE DE VENDREDI - SOHO 
+CHEMIN     ANGATAHI VITTA             
+VEN        MOUSSA VITTA               
+PLACE      VOVOU                      
+VEN        WANGNITSI                  
+CHEMIN     WANGNITSI                  
+RUE        WANGNITSI                  
+CHEMIN     ZAVKA                      
+CD         16                         
+CD         7                          
+CD         7A                         
+           commune :     CHIRONGUI                      departement : MAYOTTE                       
+QUA        100 VILLAS - POROANI       
+QUA        16 VILLAS - POROANI        
+QUA        CARREFOUR                  
+QUA        AMBABALI - POROANI         
+QUA        ANCIEN TERRAIN DE FOOT     
+QUA        LA COUR TSIMKOURA          
+QUA        CHIRONGUI OUEST VILLAGE    
+QUA        CAVANI - MRAMADOUDOU       
+QUA        CAVANI - CHIRONGUI         
+QUA        CONVALESCENCE - MRAMADOUDO 
+QUA        CAVANI KELI - TSIMKOURA    
+QUA        HOPITAL - MRAMADOUDOU      
+QUA        LACOUR - TSIMKOURA         
+QUA        LOTISSEMENT - MIRERENI     
+QUA        LOTISSEMENT - MALAMANI     
+QUA        MAGNASSINI - POROANI       
+QUA        MBOUYOUNI - MIRERENI       
+QUA        MATERNITE - MRAMADOUDOU    
+QUA        MGNASSINI - POROANI        
+QUA        MKAFENI - MARMADOUDOU      
+QUA        MKAFENI - TSIMKOURA        
+QUA        MTRONDRONI - TSIMKOURA     
+QUA        MYADZINI - POROANI         
+QUA        GOLF - MIRERENI            
+QUA        NOUVELLE MOSQUEE           
+QUA        PPF - MALAMANI             
+QUA        TERRAIN DE FOOT - MIRERENI 
+LIEU-DIT   BENARA SUD                 
+LIEU-DIT   BEPILIPILI                 
+LIEU-DIT   BOUERENI                   
+LIEU-DIT   CARONI                     
+LIEU-DIT   CAVANI                     
+LIEU-DIT   CHIRONGUI                  
+LIEU-DIT   DAPANI                     
+LIEU-DIT   ILOT KARONI                
+LIEU-DIT   LAIDAMA                    
+LIEU-DIT   MAHARAVO V                 
+LIEU-DIT   MAKOULATSA                 
+LIEU-DIT   MALAMANI                   
+LIEU-DIT   MIRERENI BE                
+LIEU-DIT   MIRERENI KELI              
+LIEU-DIT   M'RAMADOUDOU               
+LIEU-DIT   M'RERENI                   
+LIEU-DIT   M'RONIKELI                 
+LIEU-DIT   M'TSAMOUDOU                
+LIEU-DIT   M'TSANGACHEHI              
+LIEU-DIT   POROANI                    
+LIEU-DIT   RESERVE FORESTIERE AJANGUA 
+LIEU-DIT   RESERVE FORESTIERE BENARA  
+LIEU-DIT   RESERVE FOREST CHIRONGUI   
+LIEU-DIT   RESERVE FOREST DE CHOUNGUI 
+LIEU-DIT   RESERVE FORESTIERE DAPANI  
+LIEU-DIT   RESERVE FOREST HAOURAMBOU  
+LIEU-DIT   RESERVE FOREST TSIMKOURA   
+LIEU-DIT   TCHAOURIMBO                
+LIEU-DIT   TSIMKOURA                  
+LIEU-DIT   TSIMKOURA M'KAFENI         
+LIEU-DIT   TSIMKOURA SIM              
+LIEU-DIT   VILLAGE DE CHIRONGUI       
+LIEU-DIT   VILLAGE DE MALAMANI        
+LIEU-DIT   VILLAGE DE M'RAMADOUDOU    
+LIEU-DIT   VILLAGE DE POROANI         
+LIEU-DIT   VILLAGE DE TSIMKOURA       
+ROUTE      DEPARTEMENTALE 4 - POROANI 
+ROUTE      DEPARTEMENTAL 5 - MIRERENI 
+ROUTE      DEPARTEMENTALE 5           
+ROUTE      DEPARTEMENTALE 5 - MARAMAN 
+ROUTE      DEPARTEMENTALE 5 - MRAMAD  
+ROUTE      DEPARTEMENTALE 5 - POROANI 
+ART        ANCIENNE ROUTE N 3         
+RUE        CINQUANTE - TSIMKOURA      
+RUE        CINQUANTE-UN - TSIMKOURA   
+RUE        CINQUANTE-DEUX - TSIMKOURA 
+RUE        CINQUANTE-TROIS - TSIMKOUR 
+RUE        CINQUANTE-QUATRE - TSIMKOU 
+RUE        CINQUANTE-CINQ - TSIMKOURA 
+RUE        CINQUANTE-SIX - TSIMKOURA  
+RUE        CINQUANTE-SEPT - TSIMKOURA 
+RUE        CINQUANTE-HUIT - TSIMKOURA 
+RUE        DE LA MAIRIE - MALAMANI    
+ROUTE      MBOUYOUNI - MIRERENI       
+RUE        DE LA MOSQUEE - MIRERENI   
+RUE        DE LA MOSQUEE              
+RUE        MOSQUEE DU VENDREDI - MALA 
+RUE        DE LA POSTE                
+ROUTE      NATIONALE 3                
+ROUTE      NATIONALE 3 - TSIMKOURA    
+CD         5                          
+CD         11                         
+CD         4                          
+CD         15                         
+N          3                          
+           commune :     DEMBENI                        departement : MAYOTTE                       
+QUA        M BABONI - AJANGOUA        
+QUA        ECOLE MATERNELLE - AJANGOU 
+QUA        ECOLE MATERNELLE - ONGOJOU 
+QUA        ECOLE PRIMAIRE - AJANGOUA  
+QUA        DECASE - ILONI             
+QUA        ECOLE PRIMAIRE - ONGOJOU   
+QUA        EUROPA - TSARARANO         
+QUA        DU FRUIT A PAIN - AJANGOUA 
+QUA        CARREFOUR - TSARARANO      
+QUA        COLLEGE - ILONI            
+QUA        FOYER DES JEUNES - ONGOJOU 
+QUA        DE LA MOSQUEE - AJANGOUA   
+QUA        DU MARCHE - AJANGOUA       
+QUA        BANDRANI SADA              
+LOT        COTE PLAGE                 
+QUA        LES HAUTS DU VILLAGE       
+LOT        DARINE MONJOLY - ILONI     
+QUA        HIRACHI                    
+QUA        KARDZAVEDZA - ONGOJOU      
+QUA        M'SAKOUANI                 
+           M HONKONI - ILONI          
+QUA        M SAKOUWANI                
+QUA        MADICOLO - ONGOJOU         
+QUA        MAGNASINI - ILONI          
+QUA        MALABOUDOU - AJANGOUA      
+QUA        MARINDRINI - AJANGOUA      
+QUA        MARINDRINI - ONGOJOU       
+QUA        MASDJIDI SOIFA             
+QUA        MAVINGONI - TSARARANO      
+QUA        MOSQUEE DE VENDREDI        
+QUA        MOUHAJOUNI - AJANGOUA      
+QUA        MSACOUANI                  
+QUA        MWADZANI - AJANGOUA        
+QUA        OUSALAMA - ILONI           
+QUA        PRINCESSE - AJANGOUA       
+QUA        REA - ILONI                
+QUA        SAIDALI ISSOUF - TSARARANO 
+QUA        SALAMANI - AJANGOUA        
+QUA        SCAM - TSARARANO           
+QUA        SICIMA YA OUJOU            
+QUA        SICIMA YA OUJOU - ILONI    
+QUA        SONGOROBILI - TSARARANO    
+QUA        SIMA YA OUJOU              
+QUA        TERRAIN DE FOOT - AGANJOUA 
+QUA        TERRAIN DE FOOT            
+QUA        ZEGOUE ZA PANGA - TSARARAN 
+LIEU-DIT   AJANGUA                    
+LIEU-DIT   AKIBA                      
+LIEU-DIT   BANDRAJOU                  
+LIEU-DIT   BANDRANI HA AUGUSTE        
+LIEU-DIT   BANGOUENI                  
+LIEU-DIT   BEJAMOUDOU                 
+LIEU-DIT   LA BOUEMAREE               
+LIEU-DIT   DEMBENI YA SADA            
+LIEU-DIT   DOMONYOMBE                 
+LIEU-DIT   DPTA                       
+LIEU-DIT   GOGORA KANDZA              
+LIEU-DIT   HA DEDE                    
+LIEU-DIT   HA FLOK                    
+LIEU-DIT   HA HADIRAMI                
+LIEU-DIT   HA SAID COLO               
+LIEU-DIT   HAMAGOMA                   
+LIEU-DIT   HANDRE                     
+LIEU-DIT   HANDRE I                   
+LIEU-DIT   HANDRE II                  
+LIEU-DIT   ILONI                      
+LIEU-DIT   IRONI                      
+LIEU-DIT   KAROVALE                   
+LIEU-DIT   MAGOUNI                    
+LIEU-DIT   MALIGOUNI                  
+LIEU-DIT   MALIGOUNI II               
+LIEU-DIT   MARVATO                    
+LIEU-DIT   MAVINGONI                  
+LIEU-DIT   MAVINGONI II               
+LIEU-DIT   M'COLO MOJA                
+LIEU-DIT   MKOMBOZI                   
+LIEU-DIT   MLEBE MARVATO              
+LIEU-DIT   OUONGOJOU                  
+LIEU-DIT   PADZAKOY                   
+LIEU-DIT   PHARE                      
+LIEU-DIT   POSTE                      
+LIEU-DIT   RESERVE FOREST DE HAJANGUA 
+LIEU-DIT   RESERVE FORESTIERE VOUNDZE 
+LIEU-DIT   RESERVE FOREST VOUNDZE II  
+LIEU-DIT   SONGORO M'BILI             
+LIEU-DIT   TSARARANO                  
+LIEU-DIT   VILLAGE DE DEMBENI         
+LIEU-DIT   VOUNDZE                    
+CHEMIN     DE L ANCIENNE ECOLE - ANJA 
+CHEMIN     DES AMOUREUX - TSARARANO   
+CHEMIN     DES ANGES -                
+SQUARE     DE L'ANCIENNE ECOLE - AJAN 
+RUE        ABDOU MOUTA - TSARARANO    
+RUELLE     ALLO M CHE                 
+RUELLE     ANCIENNE MOSQUEE - AJANGOU 
+RUELLE     DE L ANCIEN FOYER - AJANGO 
+CHEMIN     BAMBOU - ANJANGOUA         
+CHEMIN     BAOURERA - ILONI           
+CHEMIN     BOUENI FOUNDI              
+RUE        BACAR MALO - ONGOJOU       
+CHEMIN     DES BASSINS                
+CHEMIN     LE BANGA                   
+CHEMIN     LES BAMBOUS                
+RUE        BANDAR DJAMDJI             
+RUE        BANDAR TITI                
+RUE        BELLE VUE                  
+RUE        BOQUELO - ONGOJOU          
+RUE        BOUGAINVILLIER - AJANGOUA  
+RUE        DU BASSIN - ONGOJOU        
+RUE        DU BAOBAB                  
+RUE        DU BAOBAB - ILONI          
+RUE        BOBOKA - TSARARANO         
+RUE        BOUGAINVILLIER - TSARARANO 
+RUELLE     BABINA                     
+RUELLE     BABOUDOU RAZAKOU - ILONI   
+ALLEE      DES CIMETIERES - ANJANGOUA 
+CHEMIN     DE LA CAMPAGNE - TSARARANO 
+RUE        CASABONA - ILONI           
+RUE        CHAMASSI - TSARARANO       
+RUE        CHARLES DE GAULLE - TSARAR 
+RUE        CHISSIMANI - ONGOJOU       
+RUE        DU CIMETIERE - ONGOJOU     
+RUE        M COBA - TSARARANO         
+RUELLE     DU CARREFOUR - TSARARANO   
+RUELLE     CASABONA - ILONI           
+RUELLE     DZAOUDZI - TSARARANO       
+RUE        DES DEBBAH - ILONI         
+RUELLE     DADI MAMOLI - AJANGOUA     
+RUELLE     DECASE - ILONI             
+RUELLE     DU DISPENSAIRE - ILONI     
+RUE        D EUROPE                   
+RUE        DE L ECOLE MATERNELLE - ON 
+RUE        DE L ECOLE PRIMAIRE - ONGO 
+RUE        DU CHATEAU D EAU           
+RUE        DE L ECOLE PRIMAIRE - AJAN 
+RUE        DE L ECOLE PRIMAIRE        
+RUELLE     DE L ECOLE MATERNELLE - AJ 
+ALLEE      DU GARAGE - TSARARANO      
+CHEMIN     DES FRANGIPANIERS - ANJANG 
+CHEMIN     DU FRUIT A PAIN - ANJANGOU 
+CHEMIN     FOURAHANI - TSARARANO      
+RUE        DE LA FONTAINE - TSARARANO 
+RUE        FLAME D OR - AJANGOUA      
+RUELLE     FELIKI                     
+RUELLE     M FRAMPE - ILONI           
+RUE        DU GRAND REPOS - TSARARANO 
+RUE        DU GRAND REPOS             
+CHEMIN     M HINGANI - ILONI          
+CHEMIN     M HONKONI - ILONI          
+RUELLE     M HAMBA                    
+RUE        DE L'IFM - ILONI           
+ALLEE      DES FLAMBOYANTS - ANJANGOU 
+CHEMIN     DU JASMIN - ILONI          
+RUE        JARDIN D AMOUR             
+RUELLE     JASMINE - AJANGOUA         
+RUE        DE LA JAMAIQUE - ONGOJOU   
+RUE        KOUKOUMBA                  
+RUE        KOUTEVERA                  
+RUELLE     KWELI                      
+CHEMIN     LASTIKI - ILONI            
+RUELLE     LANGA - TSARARANO          
+RUELLE     M LAVOUNI - ILONI          
+ALLEE      MOUHEBOUKINI - ANJANGOUA   
+CHEMIN     MOSQUEE MAGNASSINI - ILONI 
+CHEMIN     DU MARCHE - ANJANGOUA      
+CHEMIN     MAKELE                     
+CHEMIN     MAVELOU - ANJANGOUA        
+CHEMIN     MGUEREZA - ANJANGOUA       
+CHEMIN     MROMTITI - ANJANGOUA       
+IMPASSE    MRONI HAMADI               
+PASSAGE    MABOUDOU-RAZAKOU - ILONI   
+RUELLE     NINGA                      
+CHEMIN     OUSSALAMA - ANJANGOUA      
+CHEMIN     DE LA PAIX                 
+CHEMIN     DU PARADIS DES ENFANTS     
+CHEMIN     DU PELERINAGE              
+CHEMIN     DU PLATEAU                 
+CHEMIN     PATATES ROUGES             
+CHEMIN     PRINCESSE - ANJANGOUA      
+RUE        DE L ECOLE LOUIS LE PENSEC 
+ROUTE      DE LA PLAGE - ILONI        
+IMPASSE    DE LA ROSE                 
+IMPASSE    ROSI - ILONI               
+RUE        DE LA RIVE - TSARARANO     
+RUE        RAME D OR - AJANGOUA       
+RUELLE     DE LA REINE - TSARARANO    
+RUELLE     REA - ILONI                
+ALLEE      DE LA SOURCE - TSARARANO   
+ALLEE      DU STADE                   
+ALLEE      SAID ISSOUF -TSARARANO     
+RUE        DE LA SOCIETE MABOUL -     
+RUE        M SAKOUANI                 
+RUE        SALAMA TSARA - TSARARANO   
+RUE        SALAMANI - AJANGOUA        
+RUE        SICIMA YA OUJOU            
+RUE        SOCIETE BABOUL             
+RUELLE     SIDI MARI - ILONI          
+CHEMIN     TERRE ROUGE                
+RUE        STAR - TSARARANO           
+RUE        TERRAIN DE FOOT - ILONI    
+RUELLE     THERESE - TSARARANO        
+RUELLE     VIAVITSARA - AJANGOUA      
+RUELLE     WAKA - TSARARANO           
+CHEMIN     ZAMA DADA                  
+CHEMIN     ZAMA TOTO                  
+RUE        ZAWIA                      
+RUE        ZENA MDERE                 
+RUELLE     ZENA MDERE - TSARARANO     
+RUELLE     BABOUTSI - ILONI           
+RUELLE     BAMANA - TSARARANO         
+RUELLE     BANGOUENI - TSARARANO      
+RUELLE     BARAKA                     
+RUELLE     BOBOKA - AJANGOUA          
+RUELLE     CHIPANGUA - AJANGOUA       
+RUELLE     COCO BOIRA - ILONI         
+PLACE      MANGA                      
+RUE        MANGA BAZAMA               
+RUE        DE LA MOSQUEE - AJANGOUA   
+RUE        DE LA MOSQUEE - ONGOJOU    
+RUE        MOSQUEE DU VENDREDI -ILONI 
+RUE        MOSQUEE DU VENDREDI - TSAR 
+RUE        MADICOLO - ONGOJOU         
+RUE        MAGA - ONGOJOU             
+RUE        MAGNASSINI - ILONI         
+RUE        MALABOUDOU - AJANGOUA      
+RUE        MANGA MARACHI              
+RUE        MANGA BINTI                
+RUE        MANGA FIKIRA - ILONI       
+RUE        MANGA PAPAYA - AJANGOUA    
+RUE        MARECHAL - TSARARANO       
+RUE        MARINDRINI - ONGOJOU       
+RUE        MASDJIDI SOIFA             
+RUE        MASULAHA - ILONI           
+RUE        MIJIHARI - ILONI           
+RUE        MITTERRAND - TSARARANO     
+RUE        MJOMBA MARINDRI -          
+RUE        MNADZINI - ILONI           
+RUE        MOIRABOU - ONJOGOU         
+RUE        MOUHAJOUNI - AJANGOUA      
+RUE        MOUSSA OILI - TSARARANO    
+RUE        M SAKOUANI                 
+RUE        MWANDZANI - AJANGOUA       
+RUELLE     MAJIMBINI - ILONI          
+PLACE      DE LA MAIRIE               
+RUELLE     MALABOUDOU - AJANGOUA      
+RUELLE     MAMOURIDI - ILONI          
+RUELLE     MANDELA - TSARARANO        
+RUELLE     MAOULIDE                   
+RUELLE     MDAMA - TSARARANO          
+RUELLE     MOICHKOUROU - TSARARANO    
+RUELLE     PLACE DE LA MOSQUEE - ILON 
+ROUTE      NATIONALE - IRONI BE       
+ROUTE      NATIONALE 2 - DEMBENI      
+RUE        DE LA MAIRIE               
+RUE        DE LA MOSQUEE MASDJID EL W 
+RUE        DE LA MOSQUEE TANAMALAZA   
+RUE        DE LA MOSQUEE DU VENDREDI  
+ROUTE      NATIONALE 2                
+ROUTE      NATIONALE 3                
+CAR        DE TSARARANI               
+           commune :     DZAOUDZI                       departement : MAYOTTE                       
+QUA        COLLEGE BABOUL INSSANI     
+QUA        OUPI                       
+LOT        SAID ANCHIRAFFI            
+QUA        LA VIGIE                   
+LIEU-DIT   ANTAFA                     
+LIEU-DIT   BADAMIERS                  
+LIEU-DIT   DZIANI DZAHA               
+LIEU-DIT   LA FERME                   
+LIEU-DIT   FOUNGOUJOU                 
+LIEU-DIT   GOMBO LA MONTE             
+LIEU-DIT   KAKAZOU                    
+LIEU-DIT   LABATTOIR                  
+LIEU-DIT   MARZOUKO                   
+LIEU-DIT   MONYE AMINI                
+LIEU-DIT   MOYA                       
+LIEU-DIT   MRONYOMBENI                
+LIEU-DIT   OUPI                       
+LIEU-DIT   PAMANDZI KELI              
+LIEU-DIT   PAPANI                     
+LIEU-DIT   POLE                       
+LIEU-DIT   LA POMPE                   
+LIEU-DIT   POUDJOU                    
+LIEU-DIT   LE ROCHER                  
+LIEU-DIT   TOUTOURCHA                 
+LIEU-DIT   VATOU                      
+LIEU-DIT   LA VIGIE                   
+LIEU-DIT   VILLAGE DE DZAOUDZI        
+LIEU-DIT   LE VILLAGE DE LABATTOIR    
+LIEU-DIT   ZARDENI                    
+RUELLE     ABDALLAH DJAHA             
+PASSAGE    ABDALLAH DJAHA             
+RUELLE     ABDOU RAHIM                
+RUE        ABDOU RAHIM                
+RUE        ADAME                      
+RUELLE     ADAME                      
+RUE        ADAM                       
+PASSAGE    ADAME                      
+IMPASSE    DE L'AGRICULTURE           
+CHEMIN     BOIRA ALLAOUI              
+RUE        AMINA ALI M'BINGA          
+RUE        DE L'AMITIE                
+BOULEVARD  DES AMOUREUX               
+RUE        ASSANI BACAR               
+ROUTE      DES BADAMIERS              
+RUE        ANCIENNE MAIRIE            
+RUE        ART MOSQUEE DU VENDREDI    
+RUE        ANTAFA                     
+RUELLE     ASSANI BACAR               
+RUE        ASSANI BACAR               
+RUE        AUGUSTE RENOIR             
+RUE        BA VELOU                   
+PASSAGE    BACAR BOURZANE             
+RUE        BACAR MARI                 
+RUE        BACAR DJOUMOI              
+RUE        BACO HOUMADI               
+RUE        BADROU                     
+QUAI       BALLOU                     
+RUE        BAMBAO                     
+RUE        BANDRABASSE                
+PASSAGE    DE LA BANQUE               
+CHEMIN     DU BAOBAB                  
+ALLEE      BASSELE                    
+RUELLE     BATSARA                    
+RUE        DE LA BATTERIE SUD         
+RUE        CECILE BLEUE               
+RUELLE     OUSSENI BOINA              
+PLAG       DU BOUILLEUR               
+RUE        M'BOUYOUJOU                
+RUE        BRAZZAVILLE                
+PASSAGE    BRAZZAVILLE                
+RUELLE     BRAZZAVILLE                
+CHEMIN     CACHE                      
+RUE        DE LA CARRIERE             
+CHEMIN     CHABABIDINE                
+RUE        CECILE                     
+RUE        CHAMAGOU                   
+IMPASSE    DU CHATEAU D'EAU           
+RUE        DU CIMETIERE               
+RUE        CINE 2000                  
+CHEMIN     DE LA CITERNE              
+RUE        DU CLANDESTIN              
+RUE        DU COLLEGE                 
+CHEMIN     DE LA COLLINE              
+RUE        DU COMMERCE                
+BOULEVARD  DES CRABES                 
+RUE        DE LA CTAM                 
+PASSAGE    DADY SALA                  
+RUE        MAMA DADY                  
+RUELLE     DADISSALA                  
+RUELLE     DADY JEUNE                 
+RUELLE     DANKALE                    
+PASSAGE    BA DEDZA                   
+RUE        DISPENSAIRE                
+CD         10 RUE DU FOUR A CHAUX     
+CD         10 RUE MANGAMAGARI         
+CD         10 RUE DES BADAMIERS       
+RUE        ALI ABDALLAH DJAHA         
+PASSAGE    COCO M'KOU DJOU            
+PASSAGE    BOINA DJOUMBE              
+ROUTE      DEPARTEMENTALE 10          
+ROUTE      DEPARTEMENTALE 9           
+QUAI       DE LA DOUANE               
+RUE        DES ECOLES                 
+RUE        DE L'EGLISE                
+RUE        DES EQUIPEMENTS            
+PLAG       DU FARE                    
+RUE        DE LA FERME                
+CHEMIN     DE LA FONTAINE             
+RUE        DU FOUR A CHAUX            
+REMPART    DU FOUR A CHAUX            
+PLACE      DE FRANCE                  
+RUE        DES FRANGIPANIERS          
+PASSAGE    DE LA GARDERIE             
+RUE        DE LA GENDARMERIE          
+RUE        GEORGES POMPIDOU           
+RUE        GIBERT                     
+RUE        HALIDI SOUFFOU             
+RUELLE     HALIDI SOUFFOU             
+RUE        DES HIBISCUS               
+RUE        DE L'HOPITAL               
+RUE        DE L'HOTEL DE VILLE        
+RUE        ABDALLAH HOUMADI           
+RUE        ASSANI HOUMADI             
+QUAI       ISSOUFALI                  
+PASSAGE    SANS ISSUE                 
+ALLEE      DU JARDIN                  
+IMPASSE    JARRY                      
+CHEMIN     LAC DZIANI                 
+RUE        LAZA                       
+AVENUE     DE LA LEGION ETRANGERE     
+RUE        DE LA LIBERTE              
+IMPASSE    DE LA LIBERTE              
+RUE        MAGNASSINI                 
+RUE        MAGOCHI NTCHORA            
+RUELLE     MAHAMADI                   
+RUE        MAHAMADI                   
+CHEMIN     DU MAIRE                   
+QUAI       MAIRESSE                   
+CHEMIN     MAKALAMOU                  
+RUE        MALIDE                     
+RUE        MAMAMAYE                   
+RUE        MARI DI MANGA              
+RUE        MANGA MAGARI               
+RUE        MANGUA PAPAYA              
+RUE        DU MANGUIER                
+CHEMIN     MAMZOURI                   
+RUE        DU MARCHE                  
+RUE        MARI LUA MANGA             
+RUELLE     SALIM MARI                 
+RUE        MARIAGE                    
+RUELLE     MARIAGE                    
+RUE        MARIAME ALI M RARAYA       
+RUE        MARIAME BACO               
+RUELLE     MARIAME BACO               
+RUE        MARIADJANI                 
+RUE        MARZOUKOU                  
+RUE        MAWA                       
+CHEMIN     MAZABIBOU                  
+CHEMIN     DADY MAZENA                
+RUE        MERE MAMAYE                
+PASSAGE    MISSIOULOU                 
+RUE        MOIDZIOI RAHISSI           
+PASSAGE    BOUENI MOIDZIOI            
+PASSAGE    ALI BACO MOINA             
+RUE        DE LA MOSQUEE PAMANDZI KE  
+RUE        DE LA MOSQUEE DU VENDREDI  
+RUELLE     DE LA MOSQUEE DU VENDREDI  
+RUELLE     MOSQUEE CHABADI            
+RUE        DE LA MOSQUEE              
+RUE        MOSQUEE VIGIE              
+RUE        MOUYOUJOU                  
+RUE        MOUZDALIFA                 
+ROUTE      DE MOYA                    
+RUE        DU JARDIN MOYA             
+RUELLE     DADY NIKALOU               
+PASSAGE    NYLO                       
+RUE        M'DOGO OILI                
+RUELLE     OUPI                       
+RUELLE     OUPI 2                     
+PASSAGE    BINTI OUSSENI              
+RUE        OUSSENI COMBO              
+RUELLE     MARIE OUAMANGA             
+RUE        PAMANDZI KELY              
+RUELLE     PAMANDZI KELY              
+RUE        PAPA ALBERT                
+RUELLE     PAPA ALBERT                
+RUE        PAZZOLAN                   
+RUE        A PIC                      
+RUELLE     A PIC                      
+RUE        DE LA PLAGE DE FONGOUJOU   
+ALLEE      DE LA PLAGE                
+IMPASSE    DU PLATEAU                 
+RUE        DU PLATEAU                 
+RUE        POTELEA                    
+AVENUE     DE LA PREFECTURE           
+ROUTE      NATIONALE 4                
+RUE        ABDOU RAHIM                
+PASSAGE    MADI RAMA                  
+IMPASSE    DE LA RAVINE               
+RUE        DES REFUGIES               
+RUELLE     DU REMBLAIE                
+IMPASSE    DES REFUGIES               
+RUELLE     DES REFUGIES               
+IMPASSE    DU ROCHER                  
+RUELLE     ROUCHOULA                  
+RUE        SACO                       
+RUE        DE SAINT DENIS             
+RUE        SALIM MARI                 
+RUE        FATIMA SELEMANI            
+RUE        DE LA SIM                  
+RUE        SIMANA                     
+RUE        DE LA SIRF                 
+PASSAGE    DE LA SODIFRAM             
+RUE        DE LA SOLIDARITE           
+CHEMIN     SOUMBARIDI                 
+CHEMIN     SOZA                       
+RUE        DU STADE MARAHABA          
+RUE        DU STADE                   
+RUE        TALAKA                     
+RUELLE     TALAKA                     
+RUE        TENNIS                     
+CHEMIN     BOUCH TOIRA                
+CHEMIN     TOTO                       
+RUE        TSIRANANA                  
+RUE        DE LA VANILLE              
+CHEMIN     VERS MOYA                  
+RUE        VICTOR HUGO                
+RUE        VIEUX BASSIN               
+RUE        DE LA VIGIE                
+ALLEE      DES 15 VILLAS              
+RUE        VILLA MARINE               
+           commune :     KANI-KELI                      departement : MAYOTTE                       
+LIEU-DIT   ADEMBE                     
+LIEU-DIT   AGNALA FADI                
+LIEU-DIT   AMBALOU                    
+LIEU-DIT   ANDZONIAVA                 
+LIEU-DIT   ANDZORLAVA                 
+LIEU-DIT   ANGNALA NANA               
+LIEU-DIT   BALAMBOGO                  
+LIEU-DIT   BANDRA M'ZOUNGOU           
+LIEU-DIT   BANDRAKOUMI                
+LIEU-DIT   BEMANGA                    
+LIEU-DIT   BENAMOU                    
+LIEU-DIT   BOUE FORO                  
+LIEU-DIT   BOUELAYEZ                  
+LIEU-DIT   BOUERENI                   
+LIEU-DIT   CHONGO CHAHARI             
+LIEU-DIT   CHOUNGUI                   
+LIEU-DIT   CHOUNGUI KELI              
+LIEU-DIT   DALGOBE                    
+LIEU-DIT   DJALIMOU                   
+LIEU-DIT   GNAMBO                     
+LIEU-DIT   HACHARIFOU                 
+LIEU-DIT   HAMACHI                    
+LIEU-DIT   KADJIFOUTCHENI             
+LIEU-DIT   KANI BE                    
+LIEU-DIT   KAVANI KANI KELI           
+LIEU-DIT   KAVANI KANI BE             
+LIEU-DIT   KAVANI CHOUNGUI            
+LIEU-DIT   KAVANI M'BOUINI            
+LIEU-DIT   KAVANI BE M'RONABEJA       
+LIEU-DIT   MAGNENAKOHOU               
+LIEU-DIT   MARVATO                    
+LIEU-DIT   MASSOIYNI                  
+LIEU-DIT   M'BOUINI                   
+LIEU-DIT   M'BOUNATSA                 
+LIEU-DIT   M'LIMA CHOUNGUI            
+LIEU-DIT   M'RONABEJA                 
+LIEU-DIT   M'ROTRONDRO                
+LIEU-DIT   M'TSANGA PASSI BE          
+LIEU-DIT   N'GOUJA                    
+LIEU-DIT   OUSSENI KOUVI              
+LIEU-DIT   PADZANI CHOUNGUI           
+LIEU-DIT   PASSI KELI                 
+LIEU-DIT   PLAGE DE N'GOUJA           
+LIEU-DIT   RASSI                      
+LIEU-DIT   RASSINI                    
+LIEU-DIT   TROTRO MRAMA               
+LIEU-DIT   TSIRAKA PASSI BE           
+LIEU-DIT   TSIRAKA BE                 
+LIEU-DIT   VALAMBEGUI                 
+LIEU-DIT   VILLAGE DE KANI-KELI       
+RUE        ALI M COLO - MBOUINI       
+RUE        ANBALA HONK                
+RUE        ANTSOUMBERA                
+RUE        ASSANI HETSAKA - MRONABEJA 
+ALLEE      BAMMOUSSA                  
+ALLEE      BANCHADA                   
+CHEMIN     BWELAHEZY - CHOUNGUI       
+RUE        BABOUL BARAKA - MBOUINI    
+RUE        BANDRA  MOUZOUNGOU - KANI  
+RUE        BEFAFA - CHOUNGUI          
+RUE        BIMANGA                    
+RUE        BLED ASSOUMANI DZOUDZOU -C 
+RUE        DE LA BELLE VUE - KANI BE  
+RUE        DES BOUGAINVILLIERS        
+ALLEE      CHEHOU BACAR               
+CHEMIN     CHOUNGUI KAVANI - CHOUNGUI 
+CHEMIN     CHOUNGUI KELI - CHOUNGUI   
+RUE        CONOUCONOU - PASSY KELI    
+RUE        DE LA COOPERATIVE          
+RUE        DU COLLEGE                 
+RUE        M COLO BONAIDI             
+RUE        M COLO MOUSSA -MBOUINI     
+ROUTE      DU COLLEGE                 
+ALLEE      DIGO                       
+RUE        DAROUSSI - CHOUNGUI        
+ROUTE      DEPARTEMENTALE 11A         
+ROUTE      DEPARTEMENTALE 4           
+RUE        DU DISPENSAIRE             
+RUE        DE L ECOLE MATERNELLE - CH 
+ALLEE      FOUNDI ALI MALIDI          
+RUE        FOUMBOUINI                 
+RUE        FATIMA M COLO CHEBANI - BO 
+RUE        FEODAL - MBOUINI           
+RUE        FITSOUNDZOUVAGNA - PASSY K 
+RUE        FOUNDI HAMADA MZE - KANI B 
+RUE        FOUNDI MADI ASSOUMANII - M 
+RUE        HANDEMBE - CHOUNGUI        
+RUE        KALAKATSANI                
+RUE        KEYSLER - MRONABEJA        
+RUE        M KOUMAFINI                
+CHEMIN     MARIAMOU TSIRATI - CHOUNGU 
+CHEMIN     ALI MKADARA - CHOUNGUI     
+CHEMIN     MLIMA WA CHOUNGUI - CHOUNG 
+CHEMIN     MRONI MTROUMAMA - CHOUNGUI 
+CHEMIN     MZE TOUHAKA - CHOUNGUI     
+PLACE      DE LA MAIRIE               
+RUE        DE LA MAIRIE               
+RUE        DE LA MAIRIE ANNEXE - CHOU 
+RUE        DE LA MAISON - MBOUINI     
+RUE        DE MA MOSQUEE DES JEUNES   
+RUE        DE LA MOSQUEE DU VENDREDI  
+RUE        MACHE - MBOUINI            
+RUE        MAHOUPOUNI - KANI BE       
+RUE        MANGA COMBA - KANI BE      
+RUE        MANZILGUE - MRONAGEJA      
+RUE        MARI NAHOUDA - MRONABEJA   
+RUE        MERINGNI                   
+RUE        MOUMINI                    
+RUE        MZE NARIA - CHOUNGUI       
+RUE        DU QUARTIER LA ROSE        
+RUE        M RONI MERINGNI            
+RUE        RAZA MOUSSA - MRONABEJA    
+RUE        DU STADE                   
+RUE        SAINDOU FIDIRIKI - MRONABE 
+RUE        SALIMA MDAHOMA             
+RUE        SOULAIMANA GAU - MRONABEJA 
+RUE        SOURATA MOUSTAKINA         
+RUE        TROTROMRAMA                
+RUE        TSINGO N DRILE - CHOUNGUI  
+RUE        WAZA                       
+RUE        DES YLANG YLANG            
+RUE        YOUNOUSSA BAMANA - KANI BE 
+RUE        ZALIFA VOY - MRONABEJA     
+RUE        ZOKI NABOUDOU - PASSY KELI 
+CD         11                         
+CD         4                          
+CD         15                         
+           commune :     KOUNGOU                        departement : MAYOTTE                       
+QUA        HAMOLE                     
+QUA        MACHAKA                    
+LOT        MAJIKORO                   
+QUA        MAKALAFOUBANI              
+QUA        MOIOU                      
+LOT        LES TROIS VALLEES          
+LOT        VAL FLEURI                 
+LIEU-DIT   LE BELVEDERE               
+LIEU-DIT   BANDAR SALAMA              
+LIEU-DIT   BANDRAJOU                  
+LIEU-DIT   BANDRANI                   
+LIEU-DIT   BARAKANI                   
+LIEU-DIT   BATRINI                    
+LIEU-DIT   BE M'RANDRA                
+LIEU-DIT   CHANDRANI                  
+LIEU-DIT   DIGO                       
+LIEU-DIT   DJAKOINI                   
+LIEU-DIT   RESIDENCE AZULI            
+LIEU-DIT   KOUNGOU DJAKOINI           
+LIEU-DIT   RESIDENCE BELLEVUE         
+LIEU-DIT   RESIDENCE CANELLIA PALM    
+LIEU-DIT   RESIDENCE LES CITRONNIERS  
+LIEU-DIT   RESIDENCE LES DEUX ILOTS   
+LIEU-DIT   RESIDENCE VILLAGE CREOLE 2 
+LIEU-DIT   VILLAGE CREOLE             
+LIEU-DIT   GOUENELAHE                 
+LIEU-DIT   GOULOUENI                  
+LIEU-DIT   RESIDENCE LES DEUX ILOTS   
+LIEU-DIT   GUITRONI                   
+LIEU-DIT   HA MOIDJIMOI               
+LIEU-DIT   HA CHIMASTO                
+LIEU-DIT   HABAKARE YAMADI            
+LIEU-DIT   ILE BLANCHE                
+LIEU-DIT   ILE VERTE                  
+LIEU-DIT   KANGANI                    
+LIEU-DIT   KANGANI II                 
+LIEU-DIT   KANGANI ZARDENI            
+LIEU-DIT   RESIDENCE CAP OCEANIA      
+LIEU-DIT   RESIDENCE ESPACE CANOPIA   
+LIEU-DIT   RESIDENCE COELANCANTHE     
+LIEU-DIT   RESIDENCE ESPACE CORALIUM  
+LIEU-DIT   KARMADAN                   
+LIEU-DIT   RESIDENCE FILAO            
+LIEU-DIT   RESIDENCE LES GIROFLIERS   
+LIEU-DIT   RES.LE HAMEAU DU RECIF     
+LIEU-DIT   RESIDENCE HORIZON          
+LIEU-DIT   KIRISSONI                  
+LIEU-DIT   LAMBIC                     
+LIEU-DIT   LONGONI                    
+LIEU-DIT   LOTISSEMENT D'ACHERY       
+LIEU-DIT   MAECHATSARA                
+LIEU-DIT   MAJICAVO KOROPA            
+LIEU-DIT   MAJICAVO LAMIR             
+LIEU-DIT   MAJICAVO                   
+LIEU-DIT   RESIDENCE RAVENEA          
+LIEU-DIT   RESIDENCE SANOA            
+LIEU-DIT   RESIDENCE TANARAKI         
+LIEU-DIT   MAJICAVO II                
+LIEU-DIT   RES LES JARDINS D'AGADIR   
+LIEU-DIT   RESIDENCE AZUR             
+LIEU-DIT   MAJIKORO                   
+LIEU-DIT   RESIDENCE CARAMEL          
+LIEU-DIT   MASSIMONI                  
+LIEU-DIT   MAVADZANI                  
+LIEU-DIT   M'GNOMBANI                 
+LIEU-DIT   MITSENI                    
+LIEU-DIT   M'JINI                     
+LIEU-DIT   M'KIRINI                   
+LIEU-DIT   MOUINAJOU                  
+LIEU-DIT   M'PAHARONI                 
+LIEU-DIT   M'PIRANI                   
+LIEU-DIT   M'TSANGA BOLE              
+LIEU-DIT   M'TSANGA M'TITI            
+LIEU-DIT   NAMOHAKOU                  
+LIEU-DIT   POINTE KOUNGOU             
+LIEU-DIT   PORT DE LONGONI            
+LIEU-DIT   RAFAHITRI                  
+LIEU-DIT   RESERVE FOREST MAJIMBINI   
+LIEU-DIT   TREVANI                    
+LIEU-DIT   TRININI                    
+LIEU-DIT   VALLEE III                 
+LIEU-DIT   VILLAGE DE KOUNGOU         
+LIEU-DIT   ZI LONGONI                 
+           LES HAUTS VALLONS - MAJICA 
+           LES 3 VALLEES - MAJICAVO   
+ALLEE      ANDRE MARILL - TREVANI     
+RUE        ABDALLAH                   
+RUE        AHAMADI AHMED              
+RUE        AHMED MARI                 
+RUE        AHMED SOIHILI - TREVANI    
+RUE        AHMED SOIHILI              
+RUE        ALI MARI - LONGONI         
+RUE        ATILIWA - MAJICAVO         
+RUE        D ACHERY - KANGANI         
+CHEMIN     BAMEME                     
+BOULEVARD  BAZAMA                     
+CHEMIN     BABONBON                   
+CHEMIN     BAPOUI                     
+CHEMIN     BOICHE - TREVANI           
+CHEMIN     BOTO                       
+CHEMIN     MAONDO                     
+RUE        BACAR BOURDAJI - TREVANI   
+RUE        BACO ALAOUI                
+RUE        BACOBAF - KANGANI          
+RUE        BACOLO - TREVANI           
+RUE        BADJIMOI - TREVANI         
+RUE        BAMANA                     
+RUE        BAMANA - TREVANI           
+RUE        BANDJA                     
+RUE        BARAKANI - MAJICAVO        
+RUE        BASSIN - LONGONI           
+RUE        BASSOUMA LA                
+RUE        BENAZI - MAJICAVO          
+RUE        BOICHE - TREVANI           
+RUE        BOUENI FOUNDI - MAJICAVO   
+RUE        BOUENI M TITI              
+RUE        BOUENI MAECHA - TREVANI    
+RUE        BAOBAB                     
+RUE        BALA MANGA - MAJICAVO      
+RUE        M BAMBAO                   
+RUELLE     BAFIA                      
+ROUTE      BARAKANI - TREVANI         
+ALLEE      CONTABOU                   
+CHEMIN     COMBO                      
+RUE        CARO BOINA                 
+RUE        CHANDRANI                  
+RUE        COCO BOULA                 
+RUE        DU COMMERCE - MAJICAVO     
+RUE        DE LA CARRIERE - MAJICAVO  
+RUE        DE LA CARRIERE             
+RUE        CHEREGOUE                  
+RUE        M  COBA                    
+RUE        DADI HAMBA  BE - TREVANI   
+RUE        DAOU RAMA                  
+RUE        DARINI                     
+RUE        DAROUSSI                   
+RUE        DECASE - MAJICAVO          
+RUE        DECASES TANARAKI           
+RUE        DIGOL - MAJICAVO           
+RUE        M DERE SOILIHI             
+RUE        DU DISPENSAIRE             
+RUE        DALLAH ALI - KANGANI       
+ROUTE      DEPARTEMENTALE 19 - LONGON 
+RUE        DE L ECOLE PRIMAIRE - MAJI 
+RUE        ETPC BARAKANI - MAJICAVO   
+CHEMIN     FATIMA ASSANI              
+CHEMIN     FATIMA BOUROUHANE          
+RUE        DU FOYER - LONGONI         
+RUE        FOUNDI LASBARA - TREVANI   
+RUE        FOUNDI MOIRABOU - TREVANI  
+RUE        FREDERIC DEBELMARE - KANGA 
+RUE        FRAMPEJOU - LONGONI        
+CHEMIN     HAMASSANI                  
+RUE        HALIFA ATTOUMANI - KANGANI 
+RUE        HAMACHAKA - MAJICAVO       
+RUE        HAMOIDJIMOI - MAJICAVO     
+CHEMIN     GOROSSO - MAJICAVO         
+CHEMIN     GOULOUENI                  
+RUE        DU BELVEDERE               
+RUE        JANGUANI - MAJICAVO        
+RUE        KALIMI                     
+RUE        KARTALA - MAJICAVO         
+RUE        KASSIM ABDALLAH            
+RUE        LAMBIC                     
+RUE        LARBA                      
+ALLEE      MOHAMADI MISTRA            
+CHEMIN     MADI MHADJI                
+CHEMIN     MAMLO                      
+CHEMIN     MANZARAKA                  
+CHEMIN     MARIAME CHERIF             
+CHEMIN     MLANAO - MAJICAVO          
+CHEMIN     MOIPATI                    
+CHEMIN     MREHOURI MVOULANA - KANGAN 
+IMPASSE    MAHANGA                    
+RUE        MOSQUEE DU VENDREDI - LONG 
+RUE        DU MANGA - MAJICAVO        
+RUE        MAAMBADI - LONGONI         
+RUE        MABOULO - TREVANI          
+RUE        MABOUROUK - TREVANI        
+RUE        MADIMARI - MAJICAVO        
+RUE        MAKALAFOUBA - MAJICAVO     
+RUE        MALIDE                     
+RUE        MAMABOLE                   
+RUE        MANGA M RO                 
+RUE        MANGA PAPAYA - LONGONI     
+RUE        MANGA REFA - LONGONI       
+RUE        MANGA RETTA                
+RUE        MANGUIER COUCHE - TREVANI  
+RUE        MAOU - MAJICAVO            
+RUE        MASSIMONI - MAJICAVO       
+RUE        MAVADZANI                  
+PLACE      DE LA MAIRIE - KANGANI     
+RUE        MOIPATI                    
+RUE        MOUCHTIHALI                
+RUE        MOSQUEE DU VENDREDI - KOUN 
+ROUTE      DE LA CARRIERE             
+ROUTE      NATIONALE 1 - LONGONI      
+ROUTE      NATIONALE 1 - KANGANI      
+ROUTE      NATIONALE 1 - TREVANI      
+ROUTE      NATIONALE 1 - KOUNGOU      
+ROUTE      NATIONALE 1 - MAJICAVO     
+RUE        DE LA NOUVELLE MAIRIE      
+RUE        DE LA PLAGE - MAJICAVO     
+RUE        DU PREFET - MAJICAVO       
+RUE        DU DISPENSAIRE             
+CHEMIN     RABI DAOUD                 
+RUE        DE LA ROCADE - KANGANI     
+RUE        DU RETOUR - MAJICAVO       
+RUE        M ROMANGA - MAJICAVO       
+RUE        M ROIVILI M DAHOMA - KANGA 
+RUE        REA                        
+CHEMIN     SAINDOU GAMBA              
+RUE        DU STADE - LONGONI         
+RUE        SAID MARI - MAJICAVO       
+RUE        SIDI COCO - LONGONI        
+BOULEVARD  TCHOPO                     
+BOULEVARD  TRIRINI - LONGONI          
+BOULEVARD  TSIVERE - TREVANI          
+IMPASSE    TOUMBOU                    
+RUE        M TSANGA YLANG YLANG       
+RUE        TANA M BAO - MAJICAVO      
+RUE        DE L'ECOLE MATERNELLE      
+RUE        ZAKIA MADI - MAJICAVO      
+RUE        ZENA M DERE                
+ROC        DE KANGANI                 
+RUE        MANSOUR                    
+RUE        DE LA POINTE KOUNGOU       
+N          1                          
+           commune :     MAMOUDZOU                      departement : MAYOTTE                       
+QUA        BANDRAJOU SPPM - KAWENI    
+QUA        BAITIL MALI                
+LOT        BENGALIS                   
+QUA        LA CARRIERE                
+QUA        CAVANI BE                  
+LOT        COLIBRI                    
+LOT        COTE D OR - KAWENI         
+QUA        DE L'ECOLE                 
+QUA        FRAMPEJOU                  
+QUA        VIETNAM - TSOUNDZOU 2      
+QUA        DOUJANI 2 - MTSAPERE       
+QUA        LES HAUTS DE DOUJANI       
+LOT        JARDINS DE PASSAMAINTY     
+QUA        M'BALAMANGA                
+QUA        M'BAMBOUNI                 
+QUA        MHOGONI                    
+QUA        MLIMANI                    
+QUA        GOUMBONI MANDZARSOA - MTSA 
+QUA        MOUHAJOUNI                 
+QUA        MRONI MANGA                
+QUA        M'TSANGANI                 
+QUA        SALAMATSARA                
+LOT        LES TROIS VALLEES - KAWENI 
+LOT        KWALE - TSOUNDZOU 2        
+QUA        LAZEREVOUNI - KAWENI       
+QUA        TANAFOU                    
+QUA        TANAMALAZA                 
+QUA        MASSIMONI - KAVANI         
+QUA        MOSQUEE DU NGUIZI - MTSAPE 
+QUA        MAHABOURINI - KAWENI       
+QUA        MANDZARSOA - MTSAPERE      
+QUA        MANGA M KAKASSI            
+QUA        MAVADZANI - KAWENI         
+QUA        MAWA - MTSAPERE            
+QUA        OASIS MAEVANTANA - MTSAPER 
+LOT        NYA DJEMA - PASSAMAINTY    
+LIEU-DIT   AMBASSADEUR - MTSAPERE     
+LIEU-DIT   BAOBAB                     
+LIEU-DIT   BARAKANI                   
+LIEU-DIT   BEAUFORT                   
+LIEU-DIT   BEJA MOUDOU                
+LIEU-DIT   BOBOKA                     
+LIEU-DIT   BONOVO I                   
+LIEU-DIT   BONOVO II                  
+LIEU-DIT   BOUGAINVILLERS             
+LIEU-DIT   CARO COCO                  
+LIEU-DIT   LA CARRIERE                
+LIEU-DIT   CAVANI MAMOUDZOU           
+LIEU-DIT   CAVANI MASSIMONI           
+LIEU-DIT   CAVANI SUD                 
+LIEU-DIT   CAVANI M'TSAPERE           
+LIEU-DIT   CAVANI STADE               
+LIEU-DIT   CHAWENI                    
+LIEU-DIT   COL DE COMBANI             
+LIEU-DIT   LA CONVALESCENCE           
+LIEU-DIT   DOUJANI                    
+LIEU-DIT   DOUJANI M'TSAPERE          
+LIEU-DIT   LA GEOLE                   
+LIEU-DIT   GNAMBOTITI                 
+LIEU-DIT   GOUALE                     
+LIEU-DIT   GOULOUE NORD               
+LIEU-DIT   GOULOUE                    
+LIEU-DIT   GRAND REPOS                
+LIEU-DIT   GRAND REPOS                
+LIEU-DIT   RESIDENCE AZULI            
+LIEU-DIT   RESIDENCE BELLEVUE         
+LIEU-DIT   RESIDENCE BOCCADOR         
+LIEU-DIT   RESIDENCE CANELLIA PALM    
+LIEU-DIT   RESIDENCE LES CITRONNIERS  
+LIEU-DIT   RESIDENCE CHEMIN LES HAUTS 
+LIEU-DIT   RESIDENCE HIPPOCAMPE       
+LIEU-DIT   RESIDENCE LES DEUX ILOTS   
+LIEU-DIT   RESIDENCE LATANIA          
+LIEU-DIT   RESIDENCE LES MANGUIERS    
+LIEU-DIT   RESIDENCE ESPACE MEGA      
+LIEU-DIT   RESIDENCE  PAILLE EN QUEUE 
+LIEU-DIT   RESIDENCE PORTES DU LAGON1 
+LIEU-DIT   RESIDENCE PORTES DU LAGON2 
+LIEU-DIT   RESIDENCE HORIZON          
+LIEU-DIT   RESIDENCE ISIS             
+LIEU-DIT   RESIDENCE JARDIN CREOLE    
+LIEU-DIT   RES HAUTS JARDINS COLLEGE  
+LIEU-DIT   HA NANGUI                  
+LIEU-DIT   RESIDENCE ESPACE CANOPIA   
+LIEU-DIT   RESIDENCE COELACANTHE      
+LIEU-DIT   RESIDENCE ESPACE CORALLIUM 
+LIEU-DIT   RESIDENCE LES GIROFLIERS   
+LIEU-DIT   HACHOFELI                  
+LIEU-DIT   HAMAHA I                   
+LIEU-DIT   HAMAHA II                  
+LIEU-DIT   LES HAUTS DE MAMOUDZOU     
+LIEU-DIT   IRONI KELI                 
+LIEU-DIT   RESIDENCE MYRIADE          
+LIEU-DIT   RES LES 4 FRERES PAPANGO   
+LIEU-DIT   RESIDENCE SAINT NICOLAS    
+LIEU-DIT   RESIDENCE SANA             
+LIEU-DIT   RESIDENCE SQUARE PAPAYE    
+LIEU-DIT   RESIDENCE TERRASSES III    
+LIEU-DIT   RES TROCAS LOTISSEMENT     
+LIEU-DIT   RESIDENCE MARIAGE IV       
+LIEU-DIT   JARDIN DU COLLEGE          
+LIEU-DIT   RES LES TROIS VALLEES      
+LIEU-DIT   RESIDENCE TROPICALES       
+LIEU-DIT   RESIDENCE VILLA CORALIA    
+LIEU-DIT   RESIDENCE VILLAGE CREOLE   
+LIEU-DIT   RESIDENCE VILLAGE CREOLE 2 
+LIEU-DIT   RESIDENCE WANDZANI         
+LIEU-DIT   ZETI ZONE NEL              
+LIEU-DIT   LA JETEE                   
+LIEU-DIT   RESIDENCE ALPHA BETA       
+LIEU-DIT   RESIDENCE ARCHIPEL         
+LIEU-DIT   RESIDENCE BELLECOMBE       
+LIEU-DIT   RESIDENCE CORAZ            
+LIEU-DIT   COTE D'OR                  
+LIEU-DIT   RESIDENCE IVOIRE           
+LIEU-DIT   RESIDENCE LACY             
+LIEU-DIT   RESIDENCE AZUR             
+LIEU-DIT   KALAFOUBA                  
+LIEU-DIT   KAVANI                     
+LIEU-DIT   KAWENI                     
+LIEU-DIT   KAWENI LA JOLI I           
+LIEU-DIT   KAWENI LA JOLI II          
+LIEU-DIT   KAWENI LA JOLI III         
+LIEU-DIT   KAWENI LA JOLI IV          
+LIEU-DIT   KAWENI LA JOLI V           
+LIEU-DIT   KAWENI LA JOLI VI          
+LIEU-DIT   KAWENI NORD                
+LIEU-DIT   KOUALE DZINDZANO           
+LIEU-DIT   KOUALE PIERRA              
+LIEU-DIT   KOUALE                     
+LIEU-DIT   KOUALE YA VAHIBE           
+LIEU-DIT   KOUALE LEGION              
+LIEU-DIT   MAEVA RANO                 
+LIEU-DIT   MAEVADOANI                 
+LIEU-DIT   MAEVANTANA                 
+LIEU-DIT   MAHEVITA                   
+LIEU-DIT   MAJICAVO LAMIR             
+LIEU-DIT   MAJIMBINI                  
+LIEU-DIT   MAJIMBINI I                
+LIEU-DIT   MAJIMBINI II               
+LIEU-DIT   MANDZARSOA                 
+LIEU-DIT   MANGA CHILINDRO            
+LIEU-DIT   MANGA M'KAKASSI            
+LIEU-DIT   LES MANGUIERS              
+LIEU-DIT   MARIDRINI                  
+LIEU-DIT   MASSAKINI                  
+LIEU-DIT   MASSAKINI II               
+LIEU-DIT   MASSAKINI III              
+LIEU-DIT   MASSAKINI IV               
+LIEU-DIT   MAVADZANI                  
+LIEU-DIT   M'BALAMANGA                
+LIEU-DIT   MERE                       
+LIEU-DIT   M'GOMBANI                  
+LIEU-DIT   M'KAFENI                   
+LIEU-DIT   MONT COMBANI               
+LIEU-DIT   MOURONIMANGA               
+LIEU-DIT   M'SAKOUANI                 
+LIEU-DIT   M'TSAPERE YA JOU           
+LIEU-DIT   M'TSAPERE                  
+           M'TSAPERE M'TSANGANI       
+           NAMOHAKOU I                
+           NAMOHAKOU II               
+           NAMOHAKOU III              
+           LA PALMERAIE TSOUNDZOU II  
+           PASSAMAINTI                
+           PITERA                     
+           POINTE MAHABOU             
+           RASSI BOINA KAIME          
+           RESERVE FORESTIERE         
+           RIVIERE DES MANGUIERS      
+           SARAHANGUE                 
+           TANAFOU                    
+           TSOUNDZOU                  
+           TSOUNDZOU I                
+           TSOUNDZOU II               
+           VAHIBE                     
+           VAHIBENI                   
+           VILLAGE DE MAMOUDZOU       
+           ZAZAVERI                   
+           ZI KAWENI NORD             
+           ZI KAWENI SUD              
+           ZI NEL                     
+           LES HAUTS VALLONS - KAWENI 
+RUE        ABDALLAH HOUMADI           
+RUE        ABDALLAH SOULA - MTSAPERE  
+RUE        AFRICA - MTSAPERE          
+RUE        AMBASSADEUR - MTSAPERE     
+RUE        DE LA BRIQUETERIE -KAVANI  
+CAR        DU BAOBAB                  
+RUE        BAMCOLO - TSOUNDZOU 2      
+RUE        BELLE VUE - MTSAPERE       
+RUE        BOUBOUNI - MTSAPERE        
+RUE        BOUENI FOUNDI - MTSAPERE   
+RUE        M BAMBOUNI - KAWENI        
+RUELLE     BARAKA - MTSAPERE          
+RUELLE     BARAKA - TSOUNDZOU2        
+RUE        DES ECOLES - TSOUNDZOU     
+RUE        CADJIFOUTENI - PASSAMAINTY 
+RUE        DES CHAMPS - KAVANI        
+RUE        CADJIFOUTENI - TSOUNDZOU 1 
+RUE        CASE PENTE - MTSAPERE      
+RUE        CAVANI BE - PASSAMAINTY    
+RUE        CENTRALE - KAWENI          
+RUE        COLO MADI MARI - MTSAPERE  
+RUE        DE LA CARRIERE - MTSAPERE  
+RUE        DE LA CARRIERE - PASSAMAIN 
+RUE        DE LA CITE - MTSAPERE      
+RUE        DU CIMETIERE - MTSAPERE    
+RUE        DU CIMETIERE - PASSAMAINTY 
+RUE        DU COLLEGE                 
+RUE        DU COLLEGE - MTSAPERE      
+RUE        MANGA CHEINDRA - VAHIBE    
+RUE        ZONE COMMERCIALE - KAVANI  
+RUELLE     CALAFOUBA - MTSAPERE       
+RUELLE     CHABADI - MTSAPERE         
+RUELLE     DE LA CITE - MTSAPERE      
+ROUTE      DE LA CONVALESCENCE - KAVA 
+RUE        COTE D OR VANIN MTSAPERE   
+RUE        TRIBUNE CAVANI             
+RUE        DE L'ABONDANCE - KAWENI    
+RUE        ACOUA                      
+IMPASSE    ACOUA                      
+RUE        DES AGAVES                 
+RUE        AMBASSADEUR                
+ROUTE      DEPARTEMENTALE 3 - COMBANI 
+RUE        DARSSALAMA - KAVANI        
+RUE        DAHILOU - VAHIBE           
+RUE        DALLAGE CENTRALE - KAWENI  
+RUE        DIVATE                     
+RUE        DU DISPENSAIRE - VAHIBE    
+RUE        DZIA LALBARA - PASSAMAINTY 
+RUELLE     M SA DREVE - MTSAPERE      
+RUE        DES AMITIES                
+PLACE      DE L'ANCIEN MARCHE         
+RUE        DE L'ANCIEN MARCHE         
+RUE        DES ECOLES - KAVANI        
+RUE        DE L ECOLE PRIMAIRE - KAWE 
+RUE        DE L ECOLE PRIMAIRE TSOUN1 
+RUE        DE L ECOLE PRIMAIRE - PASS 
+RUE        DES ECOLES - PASSAMAINTY   
+RUE        DES ECOLES DE DOUJANI -MTS 
+RUE        ECOLE DE BONOVO - MTSAPERE 
+ROUTE      DE L EGLISE - KAVANI       
+ART        ANCIENNE ROUTE N 1         
+AVENUE     ANDRIANTSOULI              
+RUE        DES FILAOS - TSOUNDZOU2    
+RUE        DES FLORALIES - TSOUNDZOU2 
+RUE        FARGEON - PASSAMAINTY      
+RUE        FOUNDI OUSSENI - MTSAPERE  
+RUE        FOYER DES JEUNES - KAWENI  
+RUE        M FAOUME - PASSAMAINTY     
+RUELLE     FOUNDI MAHAOULATI          
+RUE        DE LA GEOLE - KAWENI       
+RUE        DE LA GRDE MONTEE - MTSAPE 
+AVENUE     DE L'ARCHIPEL              
+RUE        DES ATELIERS - KAWENI      
+RUE        HALADI SELEMANI            
+RUE        M HOGONI - MTSAPERE        
+RUE        M HOGONI - PASSAMAINTY     
+RUE        MOUHINDI HASSANI - MTSAPER 
+RUE        HAUTS DES ECOLES PRIMAIRES 
+RUE        BAMCOLO - KAWENI           
+RUE        IHIOINI MAHABA - KAVANI    
+RUE        DE L INTERNAT              
+RUE        BANGALI - PASSAMAINTY      
+BOULEVARD  DU BAOBAB                  
+RUE        BARAKA                     
+RUE        BARAKANI                   
+RUE        CANAVI BE                  
+RUE        DU JARDIN - PASSAMAINTY    
+RUE        DU JARDIN DES EPICES       
+RUE        BOELACHINGO                
+ROUTE      DE KAVANI - KAVANI         
+RUE        KAVANI M TSAPERE - KAVANI  
+RUE        KAVANI SUD - KAVANI        
+IMPASSE    KAVENI                     
+RUE        DE KAVANI                  
+RUE        KAVANI SUD - MTSAPERE      
+RUE        KAVANI BE - PASSAMAINTY    
+RUE        KOUBRA - KAWENI            
+RUE        KIRI WADJIMOI - KAVANI     
+IMPASSE    BOBOKA                     
+RUE        KOUKOUMBANI - MTSAPERE     
+RUELLE     M KADARA - KAVANI          
+RUELLE     M KAFENI - MTSAPERE        
+RUE        BOINDJOUMOI - MTSAPERE     
+RUELLE     FOUNDI BOINTREA - PASSAMAI 
+RUE        BONOVO                     
+RUE        BOUBOUNI                   
+RUE        DU LYCEE                   
+RUELLE     LACARERA - MTSAPERE        
+IMPASSE    DES BOUGAINVILLIERS        
+RUE        DES BOUGAINVILLIERS - MTSA 
+RUE        BOUNIFOUNDI                
+IMPASSE    BOURHANI                   
+RUE        DE LA BRIQUETTERIE         
+RUE        DE LA NOUVELLE BRIQUETERIE 
+RUE        MASSIMONI - KAVANI         
+PLACE      MARIAGE - TSOUNDZOU 2      
+RUE        DE LA MANGROVE - KAWENI    
+RUE        DE LA MATERNELLE - TSOUND2 
+RUE        DE LA MOSQUEE - PASSAMAINT 
+RUE        DE LA MOSQUEE - MTSAPERE   
+RUE        DE LA MOSQUEE              
+RUE        MOSQUEE DU VENDREDI - TSO1 
+RUE        MOSQUEE DOUJANI1 - MTSAPER 
+RUE        DELA MOSQUEE NGUIZI - MTSA 
+RUE        MOSQUEE DU VENDREDI - KAWE 
+RUE        MOSQUEE DU VENDREDI - VAHI 
+RUE        MOSQUEE MAEVANTANA - MTSAP 
+RUE        MOSQUEE MANDZARSOA - MTSAP 
+RUE        DU MANGUIER - TSOUNDZOU2   
+RUE        DU MARCHE                  
+RUE        MACOCO MANDZARSOA - MTSAPE 
+RUE        MAEVANTANA - MTSAPERE      
+RUE        MAGIMBINI - KAWENI         
+RUE        MAHABA - MTSAPERE          
+RUE        MANDZARSOA - MTSAPERE      
+RUE        MANGA MNADZI MOJA - MTSAPE 
+RUE        MANGADZIA - TSOUNDZOU1     
+RUE        MANGADZIA - TSOUNDZOU2     
+RUE        MARIAGE - VAHIBE           
+RUE        MARINDRINI - PASSAMAINTY   
+RUE        MARKASE - MTSAPERE         
+RUE        MASSAKINI - KAWENI         
+RUE        MAZAINA - PASSAMAINTY      
+RUE        MNADZI MOJA - MTSAPERE     
+RUE        MNADZI MOJA - PASSAMAINTY  
+RUE        MNADZI MOJA - PASSAMAINTY  
+RUELLE     DE LA MATERNELLE - TSOUND2 
+RUELLE     MOSQUEE MAEVANTANA - MTSAP 
+RUELLE     MARKASE - MTSAPERE         
+PISTE      DE LA CARRIERE GOUALI      
+ROUTE      DE LA CARRIERE             
+RUE        DE LA CARRIERE             
+RUE        DE LA CASERNE              
+ROUTE      CAVANI                     
+RUE        NIVEA - TSOUNDZOU1         
+RUELLE     MOSQUEE DU NGUIZI - MTSAPE 
+ROUTE      NATIONALE 2 - TZOUNDZOU II 
+RUE        DE LA CENTRALE EDM - KAWEN 
+RUE        CHANDZA BOLE - KAVANI      
+RUE        CHEIK ABDREMA              
+RUE        CHEIK ABDEREMANE - KAWENI  
+RUE        MANGUA CHEINDRA            
+RUE        CHILINDRONI                
+RUE        DU CIMETIERE               
+RUE        DES CIMETIERES             
+RUE        DU CINEMA                  
+RUE        DU COLLEGE DE M'GOMBANI    
+RUE        DE LA PREFECTURE - PASSAMA 
+RUELLE     DE LA POMPE - MTSAPERE     
+RUELLE     DU PONT - MTSAPERE         
+RUE        DU COLLEGE DOUJANI - MTSAP 
+PLACE      DU COMMANDANT PASSOT       
+RUE        DU COMMERCE                
+CHEMIN     DE LA CONVALESCENCE - KAVA 
+IMPASSE    DU COURANT                 
+QUAI       DES CROISIERISTES          
+RUE        DAHILOU - MTSAPERE         
+RUELLE     DIAMINI - PASSAMAINTY      
+RUE        DINAHOU                    
+PLACE      DINAHOU                    
+RUE        DU DISPENSAIRE             
+RUE        ROAHANDRA - KAVANI         
+CHEMIN     RIVIERE DE KWALE - TSOUN 2 
+IMPASSE    M RONI - PASSAMAINTY       
+RUE        DE LA RIVIERE - KAWENI     
+RUE        DE LA RIVIERE - MTSAPERE   
+RUE        M ROAHANDRA - MTSAPERE     
+RUE        M ROMANGA - KAWENI         
+RUE        ROAHANDRA - MTSAPERE       
+RUE        M RONI MANGA - PASSAMAINTY 
+RUE        RASSINI - PASSAMAINTY      
+RUE        DOUJANI                    
+BOULEVARD  DU STADE - KAVANI          
+BOULEVARD  DU STADE - MTSAPERE        
+ESC        M SA DREVE - MTSAPERE      
+IMPASSE    SOILIHI CAFE - MTSAPERE    
+RUE        DE LA SIM - TSOUNDZOU 1    
+RUE        DE SADA - PASSAMAINTY      
+RUE        DU STADE - PASSAMAINTY     
+RUE        M SACOUANI - PASSAMAINTY   
+RUE        SAID KAFE - MTSAPERE       
+RUE        SALAMANI - KAVANI          
+RUE        SALAMANI - VAHIBE          
+RUE        SALAMATSARA - PASSAMAINTY  
+RUE        SALAMOURI - KAVANI         
+RUE        SELEMANI - KAVANI          
+RUE        SELEMANI - MTSAPERE        
+RUE        SOWETO - KAVANI            
+RUELLE     SALAMANI - MTSAPERE        
+N          2                          
+RUE        DU TERRAIN DE BASKET -MTSA 
+RUE        M TSAPERE YAJOU - MTSAPERE 
+RUE        TAVANDAY - MTSAPERE        
+RUE        TSARA - TSOUNGDZOU1        
+RUE        DE L'ECOLE PRIMAIRE        
+RUE        DES ECOLES                 
+RUE        DES VETIVERS - KAVANI      
+RUE        DES 10 VILLAS - PASAMAINTY 
+RUE        DE VAHIBE - PASSAMAINTY    
+RUE        DES 100 VILLAS             
+RUE        VIETNAM - TSOUNGDZOU1      
+RUE        VIETNAM                    
+AVENUE     DE L'EUROPE - KAWENI       
+RUE        YAHARI - MTSAPERE          
+RUELLE     M FAOUME                   
+           FARGEON                    
+AVENUE     DES FILAOS                 
+RUE        ZAMANTALE - KAWENI         
+RUE        ZIRAROUNI                  
+RUE        DU JARDIN FLEURI - KAVANI  
+RUE        DES FLEURS - KAWENI        
+RUE        DU FOUNDI OUSSENI          
+RUE        DU FOYER DES JEUNES        
+CHEMIN     DE LA GEOLE                
+RUE        DU GRAND CANIVEAU          
+RUE        DU GRAND REPOS             
+IMPASSE    DU GRAND REPOS             
+RUE        DE LA GRDE TRAVERSEE -KAWE 
+RUE        CHEICK SAID HASSANE        
+RUE        MOUHINDI HASSANI           
+RUE        DES HIBISCUS - KAVANI      
+RUE        M HOGONI                   
+RUE        DE L'HOPITAL               
+RUE        DE L'INTERNAT - KAVANI     
+AVENUE     JEAN MERMOZ                
+RUE        KADJIFOUTINI               
+RUE        PASSI BOINA KAIM           
+RUE        KAFE                       
+RUE        KAKAL - KAWENI             
+RUELLE     KALAFOUBA                  
+RUE        KANALENI - KAVANI          
+RUE        M KOUKOUBANI               
+RUE        FOUNDI MAHAOULATI          
+ROUTE      DE KWALE - TSOUNDZOU2      
+RUE        LACASERA - MTSAPERE        
+RUELLE     DZIA LALBARA - PASSAMAINTY 
+IMPASSE    DU LAGON                   
+RUE        LAZEREVOUNI                
+ROUTE      LIAISON RN 1 RN 2          
+RUE        LOS ANGELES                
+RUE        MADRASSE - KAWENI          
+RUE        MAEVANTANA                 
+RUE        DE MAHABOU                 
+RUE        MAHABOURINI - KAWENI       
+RUE        DE LA MAIRIE               
+RUE        MAMAWE                     
+RUE        MANGA M'KAKASSI            
+RUE        MANGA MZIMABOUROUK         
+RUE        MANGA MNOIDZI MOJA         
+RUELLE     MANGABALANCE               
+RUELLE     MANGAJOU                   
+ROUTE      DE LA MANGROVE             
+RUELLE     M RONI MANGUA              
+RUE        MANGUADZIA                 
+RUE        DES MANGUIERS              
+RUE        MARACAGNA                  
+RUE        MARIAGE                    
+RUE        PLACE MARIAGE              
+PLACE      MARIAGE                    
+RUE        MARIAZE                    
+RUE        MARINDRINI                 
+RUE        DE LA MATERNELLE           
+RUE        M'BALAMANGA                
+RUE        M'BAMBOUNI                 
+RUE        DE M'GOMBANI               
+RUE        MIMOSA - KAVANI            
+RUE        M'JIHARI                   
+RUE        MNADZI MOJA                
+RUE        DE LA MOSQUEE DE DOUJANI   
+RUE        DE LA MOSQUEE KAVANI       
+RUE        MOSQUEE DU VENDREDI        
+ROUTE      NATIONALE                  
+RUE        NIVEA                      
+IMPASSE    NOSSI BE - KAWENI          
+PLACE      DU NOUVEAU MARCHE          
+RUE        DES ORANGERS               
+RUE        DU CINEMA AL PAJOE         
+CHEMIN     DES PALETUVIERS            
+SQUARE     PAPAYE                     
+RUE        PASKY                      
+PLAG       DU PENDU                   
+VEN        PIETONNE DU TRIBUNAL       
+IMPASSE    DE LA POMPE                
+RUE        DE LA POMPE                
+BOULEVARD  DE PONT DE VIVEAUX         
+RUE        DE LA POSTE                
+AVENUE     DE LA PREFECTURE           
+RUELLE     RASSINI                    
+RUE        DE LA RIVIERE              
+RUELLE     DE RIVIERE                 
+RUE        MROAHANDRA                 
+RUELLE     M RONI                     
+RUE        M SACOUANI                 
+RUE        SAID CAFE                  
+RUE        SALAMANI                   
+RUE        BABOUS SALAMA - KAVANI     
+RUE        SARAHANGUE                 
+IMPASSE    DU SATELLITE               
+RUE        ABDALLAH SOULA - TSOUNDZ 1 
+RUE        DE LA SPPM - KAWENI        
+RUE        DU STADE                   
+BOULEVARD  DU STADE                   
+RUE        STARA                      
+RUE        BCLE DE LA STATION SERVICE 
+RUE        TANAMALAZA - PASSAMAINTY   
+IMPASSE    DES TRANSPORTS             
+CD         3                          
+ROUTE      NATIONALE 1                
+ROUTE      DE VAHIBE                  
+RUE        ZAZA VERI - MTSAPERE       
+RUE        VETIVER                    
+PLACE      LES VETIVIERS              
+RUE        DES 100 VILLAS - KAVANI    
+RUE        DES 16 VILLAS - KAVANI     
+RUELLE     DES 10 VILLAS              
+RUE        DE VILLELE - KAVANI        
+RUE        VOLTAIRE - KAVANI          
+RUE        BELLE VUE - KAVANI         
+RUE        WASTOI - KAWENI            
+RUE        WEMANI - VAHIBE            
+RUE        ZAMANTALE                  
+RUELLE     ZAMANTALE - KAWENI         
+           commune :     MTSAMBORO                      departement : MAYOTTE                       
+LOT        MADIANA                    
+LIEU-DIT   ANKIAKA I                  
+LIEU-DIT   BAIE DE HANDREMA           
+LIEU-DIT   BANDRAJOU M'TSAHARA        
+LIEU-DIT   BOUCHINI                   
+LIEU-DIT   BOUSTOINE                  
+LIEU-DIT   CAVANI HAMJAGO             
+LIEU-DIT   CHISSOUA M'TZAMBORO        
+LIEU-DIT   CIMETIERE                  
+LIEU-DIT   DISPENSAIRE                
+LIEU-DIT   DOBOSSANI                  
+LIEU-DIT   DZAOUDZI                   
+LIEU-DIT   FOUMBANI                   
+LIEU-DIT   GNAMBO YATSINI             
+LIEU-DIT   GNAMBO YAJOU               
+LIEU-DIT   GNAMBO                     
+LIEU-DIT   HACHIROUNGOU               
+LIEU-DIT   HADJAOI                    
+LIEU-DIT   HAGAWA                     
+LIEU-DIT   HAHOMBA                    
+LIEU-DIT   HAMJAGO                    
+LIEU-DIT   ILES CHOAZIL               
+LIEU-DIT   KELIJOU                    
+LIEU-DIT   KETABE                     
+LIEU-DIT   LAZARE                     
+LIEU-DIT   LOTISSEMENT EST            
+LIEU-DIT   MADIANA                    
+LIEU-DIT   MAEVA TANANA               
+LIEU-DIT   MAJI ANYOUNYI              
+LIEU-DIT   MALANDZAMIAYAJOU           
+LIEU-DIT   MALANDZAMIAYATSINI         
+LIEU-DIT   MANGAJOU                   
+LIEU-DIT   MARBOUZE                   
+LIEU-DIT   MJIHARI                    
+LIEU-DIT   MKADIJOU                   
+LIEU-DIT   M'LIMA DZIANI BOLE         
+LIEU-DIT   M'LIMA MAPOUERA            
+LIEU-DIT   QUARTIER MOSQUEE VENDREDI  
+LIEU-DIT   MOUJOUKOURA                
+LIEU-DIT   M'RERENI                   
+LIEU-DIT   M'RONI JOUMBE              
+LIEU-DIT   M'RONI HABOUTSI            
+LIEU-DIT   M'RONI BOUCHINI            
+LIEU-DIT   M'TSAHARA                  
+LIEU-DIT   M'TSANGA BELENI            
+LIEU-DIT   M'TSANGA M'LIMA            
+LIEU-DIT   M'TSANGA ANTAKOUDJA        
+LIEU-DIT   M'TSANGA SAFARI            
+LIEU-DIT   M'TSANGA JIVA              
+LIEU-DIT   M'TSANGA FOUMBOUNI         
+LIEU-DIT   M'TSANGA TSOHA             
+LIEU-DIT   M'TSANGADOUA               
+LIEU-DIT   PELETON                    
+LIEU-DIT   PLAGE DU PREFET            
+LIEU-DIT   PLAGE DE HANDREMA          
+LIEU-DIT   RASSI CHILALI              
+LIEU-DIT   RASSI KOME                 
+LIEU-DIT   RASSI DOUAMOUNYO           
+LIEU-DIT   RASSI BOUEKOUNDROUNI       
+LIEU-DIT   RESERVE FORESTIERE         
+LIEU-DIT   RESERVE FOREST DZOUMOGNE   
+LIEU-DIT   TCHAD                      
+LIEU-DIT   TSOHA                      
+LIEU-DIT   VILLAGE DE MTSAMBORO       
+LIEU-DIT   WEMANI                     
+RVE        SOUKARI                    
+CHEMIN     ANBOUDINE BACO - HAMJAGO   
+ESC        LOTISSEMENT                
+ESC        SOIFIA ABASSE              
+CHEMIN     BINTI BOURA                
+CHEMIN     ADANSOILE                  
+RUE        DE LA MOSQUEE              
+ESC        MOUSSA ALI                 
+CHEMIN     MOINA AMBIDOUNI            
+RUE        AMBOUYOU                   
+CHEMIN     DES AMOUREUX               
+RUE        M DJOURI                   
+RUE        MAIRIE ANNEXE              
+RUE        ANTANANA                   
+RUE        FILDAOUSSI - HAMJAGO       
+CHEMIN     DES FRANCAIS               
+RUE        ABDOUL ANZIZ               
+RUE        BANDRAJOU                  
+RUE        BASSIN                     
+ESC        NARIYA BATAILLON           
+CHEMIN     BEAULIEU                   
+ESC        BENALI                     
+ESC        MCOLO BINTI                
+CHEMIN     MOILIMOU M BORO            
+CHEMIN     BOUCHINI                   
+ESC        M RONI BOUCHINI            
+RUE        M LITSIJOU                 
+CHEMIN     BOUROUDA                   
+RUE        BOUSTOINI                  
+RUELLE     ANCIENNE BRIQUETTERIE      
+CHEMIN     MAROURAFIA - HAMBAJO       
+CHEMIN     MOSQUEE DU VENDREDI -MTSAH 
+RUE        DE LA MOSQUEE DU VENDREDI  
+ESC        MDZILANDZI                 
+CHEMIN     MRONJOUMBE                 
+CHEMIN     MANGAMDZIANI               
+RUE        MAGAWA PLATEAU             
+RUE        CAVANI                     
+ESC        CHANFI                     
+ESC        BI CHIDA                   
+COUR       DALLAGE DES CIMETIERES     
+           COLONEL                    
+RUE        M DJORI                    
+RUE        DOBOSSANI                  
+RUELLE     DZAOUDZI                   
+CHEMIN     M RONJOUBE - MTSAHARA      
+RUE        DE LA SNIE                 
+RUE        DE L'ECOLE                 
+CHEMIN     CIMETIERE D'ENFANTS        
+RUE        FIRDAOUSSI                 
+RUE        TERRAIN DE FOOT            
+IMPASSE    ZAIDATI - HAMJAGO          
+RUE        FOUMBANI                   
+ESC        GAJA                       
+ESC        GNAMBO                     
+ESC        M RONI HABOUTSI            
+CHEMIN     MOSQUEE HAGAWA             
+RUE        HAGAWA                     
+CHEMIN     HASSATANE                  
+CHEMIN     HAYMOUSSE                  
+CHEMIN     KALARAOUIYA                
+ESC        KITILILIJOU                
+RUE        LAHAGOINI                  
+RUE        LAZARE                     
+CHEMIN     LEBE                       
+           DALLAGE LIASSI             
+CHEMIN     DE LA LIBERTE              
+RUE        M LITCHIJOU                
+CHEMIN     DANSE MY LOVE              
+CHEMIN     MADACHI                    
+RUE        MADIANA                    
+RUE        MAGNASSINI                 
+RUE        MAHALIMA                   
+AVENUE     DE LA MAIRIE               
+RUE        MAKINE                     
+CHEMIN     MANGADZIANI                
+CAR        MANGAJOU                   
+RUE        MANGAJOU                   
+CHEMIN     MANGAZAINA                 
+RUE        MARBOUZE                   
+CHEMIN     CHEIK ANLI MARI            
+ESC        MAROURAFIA                 
+CHEMIN     MATCH                      
+ESC        MJIHARI                    
+CHEMIN     MJILANZI                   
+RUE        MJOUKOURA                  
+RUE        DE LA GRANDE MOSQUEE       
+CHEMIN     MROMJOUBE                  
+ESC        ABDOUL OIHAB               
+RUE        DU PARADIS                 
+CHEMIN     DE PARIS                   
+COUR       DALLAGE PAUL               
+CHEMIN     PELETEAU                   
+ESC        MTSAHARA PLAGE             
+CHEMIN     ECOLE PLATEAU              
+CHEMIN     DE LA POSTE                
+RUE        PPF                        
+CAR        M'RONI POPO                
+CHEMIN     SAFQUE                     
+ESC        ZOKI SAINDOU               
+ESC        SHELL                      
+RUE        SOUNGOURA                  
+CHEMIN     TANAFOU                    
+RUE        TCHAD                      
+ESC        TOTO                       
+CHEMIN     TOYBOU MOINA               
+CHEMIN     MIRADJI TOYO               
+ESC        BOURA TROULE               
+ESC        MOINA TROUNDA              
+COUR       DALLAGE LOUBAKA TSARA      
+RUELLE     DE A MOSQUEE VENDREDI      
+RUE        WEMANI                     
+CHEMIN     YAHANDRA                   
+RUE        GNAMBO YATSINI             
+CHEMIN     ZOUBOUDOU                  
+ROUTE      DEPARTEMENTALE N 1         
+ROUTE      NATIONALE 1                
+           commune :     M'TSANGAMOUJI                  departement : MAYOTTE                       
+QUA        KOUDJOUNI                  
+LIEU-DIT   AMBAFAHO                   
+LIEU-DIT   BANDRACOUMI                
+LIEU-DIT   BANDRADZIA                 
+LIEU-DIT   BEDJA                      
+LIEU-DIT   CARREFOUR DE SOULOU        
+LIEU-DIT   CHEMBENYOUMBA              
+LIEU-DIT   CHEMBENYOUMBA COLLEGE      
+LIEU-DIT   M'LIHA                     
+LIEU-DIT   MLIMA MAHOJANI             
+LIEU-DIT   MOUTSOUMBATSOU             
+LIEU-DIT   M'TSANGAMOUJI              
+LIEU-DIT   SOULOU                     
+LIEU-DIT   TANARAKI                   
+LIEU-DIT   VILLAGE DE M'TSANGAMOUJI   
+RUE        ABDALLAH DJOUMOI           
+RUE        AMADI MOUSSA               
+RUE        AMADY BACAR                
+RUE        AMBANDZA                   
+RUE        ASSOUMANI ABDALLAH         
+RUE        D ANKIAKA                  
+RUE        D AMBATO                   
+RUE        DE L ANTENNE - CHEMBENYOUM 
+RUELLE     D ANTANIBAZAHA             
+CHEMIN     ADALLADALA                 
+CHEMIN     ALI RAMA                   
+RUE        ABDOU COLO                 
+RUE        ABDOU KASSIM               
+CHEMIN     AMADI IBRAHIM              
+CHEMIN     AMADY SAINDOU              
+RUE        AMIR RIDJALI               
+ROUTE      ANDIMAKA                   
+ESC        ANLI HELI                  
+RUE        ANTANIBAZAHA               
+CHEMIN     ANTSOURANGUI               
+CHEMIN     ANTANIVATOU                
+IMPASSE    ANTANIVATOU                
+RUE        ASSOUMANI ABDALLAH         
+CHEMIN     ASSOUMANI TCHAMBOUHE       
+RUE        ATTOUMANI DIMASSI          
+CHEMIN     ATTOUMANI VAGABOND         
+RUE        ANTANAMBAO                 
+CHEMIN     IBRAHIM BACAR              
+CHEMIN     CAVANI                     
+IMPASSE    BABAZALIA                  
+RUE        BACAR TSIMANDA             
+RUE        BACAR BAZA                 
+RUE        BAKAR  RIDJAL              
+RUE        BACAR RIDJALI              
+RUE        DE LA BALANCE              
+CHEMIN     BAOUBANI                   
+CHEMIN     BOURA MGAZI                
+CHEMIN     BOURA OUSSENI MIRADJI      
+PASSERELLE BOURAHIMA COLOURASSI       
+RUE        BATAMI                     
+CHEMIN     BOINA OUNARI               
+CHEMIN     IBRAHIM AMADY              
+RUE        DU COLLEGE                 
+RUE        CAVANI                     
+RUE        CHAKA - CHEMBENYOUNBA      
+RUE        DE LA CARRIERE - CHEMBENYO 
+RUE        DE LA COOPERATIVE - CHEMBE 
+RUE        DE COLLEGE - CHEMBENYOUMBA 
+RUE        MADI COMBO - CHEMBENYOUMBA 
+SENTIER    CANIVEAU                   
+CHEMIN     CAFE                       
+RUE        CHANFI                     
+RUE        CHIMO                      
+RUE        COCO MAVRE                 
+RUE        COLO BEHEBE                
+RUE        COLO FADILA                
+RUE        COMBO SOUFFOU              
+RUE        CHIMAMA                    
+CHEMIN     FANGALATOROU 2             
+CHEMIN     LANDZA MOUSSA              
+CD         2                          
+CHEMIN     DADI HAMPI                 
+SENTIER    DADI TIF                   
+CHEMIN     DAOUDOU ANGAYA             
+CHEMIN     DAOUDOU ATTOUMANI          
+CHEMIN     DEVO                       
+PLACE      DIGO                       
+CHEMIN     DJANFAR BACAR              
+CHEMIN     DOUARA                     
+RUE        DOUE                       
+CHEMIN     DRODRO                     
+CHEMIN     DADY HAMIDA                
+RUE        ECHAT ET MARIAME ADAME     
+RUE        DE L ECOLE - CHEMBENYOUMBA 
+RUE        DE L ECOLE MATERNELLE - CH 
+ESC        FANGALATOROU               
+PLACE      FANGALATOROU               
+RUE        FANGALATOROU               
+RUE        FANGALOTOROU               
+CHEMIN     FATIMA MKOUNDZI            
+CHEMIN     FATIMA SAID DZAKOU         
+CHEMIN     FOUNDI MALIDI DJABOU       
+RUE        GODO                       
+RUE        HALIDI MARI                
+ESC        HAMADA ALI MARI            
+RUE        HAMADA OUSSENI             
+ESC        HOURA HOURA                
+RUE        HAMADA SAID                
+RUE        IBRAHIM AMADY              
+CHEMIN     KAMISSI                    
+RUE        KOUDJOUNI                  
+RUE        KAVANI                     
+RUE        KWANANDZI                  
+CHEMIN     MAMANI                     
+CHEMIN     LANDZA                     
+CHEMIN     MCOLO                      
+RUE        MJIMPIA                    
+PLACE      DU MARCHE                  
+RUE        MENANKANDZOU               
+RUE        MOUSSA SAKALAVA            
+RUELLE     MJIMPIA                    
+RUE        MADI ADA                   
+CHEMIN     MADI PARE                  
+RUE        MADI SOILIHI               
+CHEMIN     MARIDJANI                  
+RUE        DE LA MATERNELLE - CHAMBEN 
+IMPASSE    MATERNELLE PLATEAU         
+CHEMIN     MAYTSOU                    
+RUE        MCOMONI                    
+RUE        MCOLO GUENI                
+RUE        MCOLO MAINTY               
+CHEMIN     MCOLONI                    
+RUE        MDALLAH FOUNDI             
+CHEMIN     MENA ANKANDZOU             
+RUE        MIZANE                     
+CHEMIN     MKADARA                    
+RUE        MOIBOIRA                   
+RUE        MOICHIDOU                  
+CHEMIN     MOINA KOKO                 
+RUE        MOIKOMBO AMBELAHI          
+IMPASSE    MOITSATSA                  
+CHEMIN     MOULINACO                  
+CHEMIN     MOUSSA MALOU               
+IMPASSE    MOUSTOIFA ASSANI           
+RUE        MZE TAMOU                  
+RUE        NAHI MKOU                  
+RUE        DE MLIHA - MLIHA           
+RUE        NEMA                       
+ESC        NENI MOUSSA                
+CHEMIN     OUMARI BOINA               
+CHEMIN     OUSSENI ECHAT              
+RUE        DE LA PLAGE                
+CHEMIN     PAPA LAHI                  
+CHEMIN     PEPA                       
+RUE        ROUBI                      
+CHEMIN     RACHADI                    
+CHEMIN     SAMBI ADRIGANI III         
+CHEMIN     SIMBA                      
+CHEMIN     SOUFFOU AMADY              
+RUE        DU STADE                   
+RUE        SAID PAPA                  
+CHEMIN     SAINDOU ALI VITA           
+CHEMIN     SALAMA MOUDZOUANI          
+CHEMIN     SAMBI ANDRIGNI             
+CHEMIN     SIMBA FE                   
+CHEMIN     SOUA                       
+CHEMIN     SOUFFOU HALIDI             
+RUE        SALAMA MADI                
+CHEMIN     TSEY                       
+CHEMIN     TSIMAKA                    
+RUE        VATOUPEFAKA                
+RUE        DE LA VIGIE                
+RUE        DE LA VIGIE 2              
+RUE        VITA MADI RACHIDI          
+CD         1                          
+CHEMIN     WAILI                      
+RUE        YELA                       
+RUE        ZEVOUGNOU                  
+CHEMIN     ZALIA FISKA                
+RUE        ZANSSIGNE                  
+CHEMIN     ZIZA                       
+           commune :     OUANGANI                       departement : MAYOTTE                       
+QUA        KOSSOVO - KAHANI           
+QUA        MAGNASSINI - BARAKINI      
+LIEU-DIT   AN TCHANDE                 
+LIEU-DIT   AN TAOUTAOU                
+LIEU-DIT   ANGNALA FALL               
+LIEU-DIT   BAJONI                     
+LIEU-DIT   BARAKANI HAPANDZO          
+LIEU-DIT   BARAKANI                   
+LIEU-DIT   BE M'LALI                  
+LIEU-DIT   BEJAMOUDOU                 
+LIEU-DIT   BILAMBOU                   
+LIEU-DIT   BOUDRAGUELA                
+LIEU-DIT   COCONI                     
+LIEU-DIT   GOMENI                     
+LIEU-DIT   GUITRONI LAVA              
+LIEU-DIT   HA ASSANI ALLAOUI          
+LIEU-DIT   HA BOUE                    
+LIEU-DIT   HA BOILOLO                 
+LIEU-DIT   HAOURAMBOU                 
+LIEU-DIT   HAPANDZO COCONI            
+LIEU-DIT   HAPANDZO                   
+LIEU-DIT   KAHANI                     
+LIEU-DIT   KAVANI                     
+LIEU-DIT   KETRAKA MENOUROU           
+LIEU-DIT   M'BIJANI                   
+LIEU-DIT   M'LIMA COMBANI             
+LIEU-DIT   MME PAYET                  
+LIEU-DIT   N'GOUNI                    
+LIEU-DIT   OUONGOJOU                  
+LIEU-DIT   OUROVENI                   
+LIEU-DIT   PERERENI                   
+LIEU-DIT   RESERVE FORESTIERE COMBANI 
+LIEU-DIT   RESERVE FORESTIERE VOUNZE  
+LIEU-DIT   ROUAKA                     
+LIEU-DIT   VILLAGE DE OUANGANI        
+LIEU-DIT   VOUNZE                     
+RUE        ALI MLOZA - BARAKANI       
+RUE        ATTOUMANI TUIRAZA          
+RUELLE     ADA CHEBA                  
+RUELLE     ALI MABOU                  
+RUELLE     ANIHIAKA                   
+RUE        BA CHEHOU - BARAKANI       
+RUE        BACAR ALI                  
+RUE        BAMBAO - KAHANI            
+RUE        BENARA                     
+RUE        DE LA BIBLIOTHEQUE - BARAK 
+RUE        BOUVET - COCONI            
+RUE        ECOLE BARAKANI 2           
+RUELLE     BILADI SALAMA - BARAKANI   
+RUELLE     BOBOKA - BARAKANI          
+RUELLE     BACO COMBO - BARAKANI      
+RUE        CARREFOUR OUANGANI BARAKAN 
+RUE        CHARLES DE GAULLE - BARAKA 
+RUE        CHEF BE - BARAKANI         
+RUE        COMBO OUSSENI - BARAKANI   
+RUE        CONVALESCENCE - BARAKANI   
+RUE        DU COMMERCE                
+RUELLE     CADI - BARAKANI            
+RUELLE     DES CAFEILLERS - BARAKANI  
+RUELLE     DZAOU - KAHANI             
+RUE        RIZIKI FOUNGOULIE          
+RUELLE     DU FOYER - BARAKANI        
+RUE        SOULA HAMISSI              
+RUE        SOULA HAMISSI - COCONI     
+RUE        SOULA HAMISSI - BARAKANI   
+RUE        SOULA HAMISSI  KAHANI      
+RUELLE     HARIRI MADI                
+RUELLE     JAMAIQUE - BARAKANI        
+RUE        KOUNAOU VANGA              
+RUE        KAHANI YO OUJOU - KAHANI   
+RUE        MZE KOTRA                  
+RUELLE     SOUMAILA KANDZOU - BARAKAN 
+RUE        DU LAVOIR - COCONI         
+RUE        DU LAVOIR                  
+RUE        DU LAVOIR - BARAKANI       
+RUE        DU LAVOIR - KAHANI         
+RUE        MCHE LACLE                 
+RUE        MZE LAVA BE                
+ALLEE      MA MOUSSA - BARAKANI       
+ESC        MABANDRANI - BARAKANI      
+PASSERELLE DE LA MAIRIE - BARAKANI    
+RUE        DE LA MOSQUEE - BARAKANI   
+RUE        DE LA MOSQUEE DU VENDREDI  
+RUE        DU MANGUIER - BARAKANI     
+RUE        MOUSLIMOU BOUHARI - KAHANI 
+RUE        MOUSSA ASSANI - KAHANI     
+RUE        MOUSSA ASSANI - COCONI     
+RUE        MOUSSA ASSANI - BARAKANI   
+RUE        MOUSSA ASSANI              
+RUE        MSAIDIE SIAKA              
+RUE        MSAIDIE SIAKA - KAHANI     
+RUE        MSAIDIE SIAKA - COCONI     
+RUE        MSAIDIE SIAKA - BARAKANI   
+RUE        MUR PARLE - KAHANI         
+RUELLE     ABDALLAH MONDROHA - KAHANI 
+RUELLE     BA MOUSSILIMOU - BARAKANI  
+RUELLE     MADI MARI                  
+RUELLE     MADO NDZAKA                
+RUELLE     MCHAGAMA SOULOUHOU - KAHAN 
+RUELLE     MICHELIBO - BARAKANI       
+RUELLE     MJC - BARAKANI             
+RUELLE     MZE MADI - COCONI          
+RUELLE     MZE MADI                   
+RUELLE     MZE MADI - BARAKANI        
+RUELLE     MZE MADI - KAHANI          
+RUELLE     MZE MORA                   
+CAR        DE CHICONI                 
+RUE        OUSSENI TCHADALA           
+RUE        PLATEAU OU MADRASSE        
+RUE        PORT SAID                  
+RUELLE     POROPO - BARAKANI          
+N          2                          
+ALLEE      RFI - BARAKANI             
+RUE        IBRAHIM RAMADANI - COCONI  
+RUELLE     RIDAY COMBO - KAHANI       
+RUE        DE LA STATION D EPURATION  
+RUE        DU LOTISSEMENT SELEMANI    
+RUE        DU STADE                   
+RUE        DU STADE - BARAKANI        
+RUELLE     SOILIHI MVOULANA - KAHANI  
+ROUTE      SADA - BARAKANI            
+RUE        MZE TCHADALA               
+RUE        MZE TCHADALA - BARAKANI    
+RUE        MZE TCHADALA - KAHANI      
+RUE        12 VILLAS - BARAKANI       
+RUE        DE LA VANILLE - BARAKANI   
+RUE        MA VOULOUA - BARAKANI      
+RUELLE     DES VACANCIERS - BARAKANI  
+RUE        DE L YLANG YLANG           
+RUE        ZAKIA MADI                 
+RUE        ZALFATA ATTOUMANE - KAHANI 
+RUELLE     ZAINA MSOILI               
+RUELLE     ZIGALOME - BARAKANI        
+CD         8                          
+RUE        DE LA MAIRIE               
+CD         16                         
+CD         1                          
+           commune :     PAMANDZI                       departement : MAYOTTE                       
+QUA        DU JARDIN D'AMOUR          
+LOT        MASSOUNDI                  
+QUA        MIRERENI                   
+QUA        NYOUMAKO                   
+LOT        TROTRONDJEOU               
+QUA        VILLA RAHA                 
+LIEU-DIT   LA FERME                   
+LIEU-DIT   MATSOZINI                  
+LIEU-DIT   M'LIMA LA CARRIERE         
+LIEU-DIT   MOYA                       
+LIEU-DIT   TOMBANT DES AVIATEURS      
+LIEU-DIT   LA VIGIE                   
+LIEU-DIT   LE VILLAGE                 
+LIEU-DIT   VILLAGE DE PAMANDZI        
+RUE        BOUCLE ABASSE              
+RUE        SALIME ABDALLAH            
+VOIE       PIETONNE ABOUTOIHI         
+RUELLE     SAID ACHIRAFI              
+RUE        ADRIANANTSOULI             
+ROUTE      DE L'AEROPORT              
+RUE        DE L'AJP                   
+PTTE       DE L'AJP                   
+RUE        CHEIKH AHAMED ALI          
+RUELLE     DE L'ANCIEN STADE          
+RUELLE     ANFOUA                     
+RUELLE     BAITI ANFOUA               
+RUELLE     ANTANANARIVE               
+RUELLE     ANTOY                      
+RUE        DE L'AVIATION              
+RUE        JEANNE D'ARC               
+RUE        ASSANI ALI                 
+RUELLE     ASSIMAKOU                  
+PTTE       DU 25 AVRIL 1841           
+RUE        VINGT SEPT AVRIL           
+RUELLE     BABATOU                    
+RUE        BOUCLE HALIFA BACO         
+RUE        BAHONI                     
+RUELLE     YOUNOUSSA BAMANA           
+RUE        BAMBAO                     
+RUE        BANDAHARI                  
+RUE        BANDRABASSE                
+RUE        DU BAOBAB                  
+RUE        BAOBAB                     
+RUE        DE LA BARRE                
+RUELLE     BASSA                      
+RUE        BATAILLON                  
+RUE        MARIAMA BE                 
+RUELLE     PAULETTE BEMBA             
+RUE        DE LA BIBLIOTHEQUE         
+RUE        DU BIJOUTIER               
+RUELLE     BLACK                      
+RUE        FOUNDI BOINLADA            
+RUE        BOUCLE KARDJAVINDZA        
+RUELLE     BOUDY                      
+AVENUE     DE BRUXELLES               
+RUE        DES CADIS                  
+RUE        DU CADI                    
+ROUTE      DE LA CARRIERE             
+RUE        CAVANI                     
+RUE        DE CAYENNE                 
+RUELLE     CHAMASSI                   
+RUE        CHANDRANI                  
+PISTE      DU CHANTIER                
+RUELLE     SALAMA CHEBANI             
+RUELLE     CHIRANGA                   
+RUE        CHIWAWA                    
+RUE        DES CIMETIERES             
+RUE        CINE 2000                  
+RUE        DE LA CIRF                 
+RUE        DU COLLEGE                 
+RUE        DES CONGRES                
+PLACE      CONGRES                    
+RUE        COUSSIROU                  
+RUE        COCO DAMA                  
+RUE        DECASES                    
+PTTE       ZENA M'DERE                
+RUE        DESSALEMENT                
+RUE        BA DICHENI                 
+PLACE      DE DIEGO                   
+RUE        DU DISPENSAIRE             
+RUE        BOINALI DJOUMOI            
+RUE        DES ECOLES                 
+PTTE       FADUL                      
+RUE        DES FAF                    
+RUE        DE LA FERME                
+PASSAGE    YAHAYA FILS                
+RUE        DES FLEURS                 
+RUE        MANGA FOUTET               
+RUE        DE ROLAND GARROS           
+BOULEVARD  DU GENERAL DE GAULLE       
+RUE        DE LA GENDARMERIE          
+RUE        GEORGES NAHOUDA            
+RUELLE     FRANCOIS GIRAUD            
+IMPASSE    ABDALLAH GODRY             
+RUE        DU GOLF                    
+RUELLE     GOULAMHOUSSEN              
+RUE        DU GRAND CADI              
+RUE        HACHIM                     
+RUE        HACHIWAWA                  
+RUE        HAYATTI                    
+RUE        HIBISCUS                   
+RUELLE     HIKIMA                     
+RUELLE     DES ILES                   
+RUE        INTERCOMMUNALE             
+RUE        ISSIJIVA                   
+RUE        DU JARDIN                  
+RUE        DES JARDINS                
+IMPASSE    DES JASMINS                
+RUE        KABARI                     
+PLACE      KABARI                     
+RUE        KADERBAY                   
+RUE        KARIDJAVENZA               
+RUELLE     LAPEYROUSE                 
+RUE        LAZA                       
+RUELLE     MAC LUCKY                  
+RUE        DU LYCEE                   
+RUELLE     MAANDHUI                   
+RUELLE     MACHICOLO                  
+RUE        BOUCLE KOKO MADI           
+RUELLE     M'MAHORAIS                 
+RUE        DE LA MAIRIE               
+PLACE      DE LA MAIRIE               
+RUELLE     DE MAJUNGA                 
+RUE        MALABO                     
+RUE        MALIKI                     
+RUE        MARIDJAN                   
+RUELLE     FOUNDI MARIE               
+RUE        MAYOTTE MATIN              
+RUE        MATOURY                    
+RUE        MATSOZINI                  
+RUE        COCO MDJENI                
+RUELLE     ZAINA MERESSE              
+RUE        M'GOMBANI                  
+RUE        MHOGONI                    
+BOULEVARD  FRANCOIS MITTERRAND        
+VOIE       PIETONNE MKARAKARA         
+RUE        FOUNDI MOIANDZANI          
+PTTE       MOISSOURA                  
+RUE        MOJITO                     
+RUE        DE LA MOSQUEE ZAZAVERI     
+RUE        BOUCLE DE LA MOSQUEE       
+PLACE      DE LA MOSQUEE DU VENDREDI  
+RUE        DE LA MOSQUEE SADRAVANGUE  
+RUE        MWANA MADI                 
+IMPASSE    BOIS NOIR                  
+RUE        DE LA NOUVELLE PISTE       
+RUELLE     OURAGAN                    
+RUELLE     MADI OUSSEINI              
+RUE        BOUCLE OUSSINET            
+RUE        OUSSINE                    
+RUE        PAMANDZI 4                 
+RUE        MANGA PAPAYA               
+RUE        DU COMMANDANT PASSOT       
+RUE        DES PECHEURS               
+RUELLE     DES PIROGUES               
+RUE        DE LA PLAGE                
+RUE        DE LA POMPE                
+RUE        GEORGES POMPIDOU           
+RUE        LA POSTE                   
+RUE        PPF                        
+ROUTE      NATIONALE 4                
+CD         15 BD DES AMOUREUX         
+RUELLE     DADY RACHEL                
+IMPASSE    VILLA RAHA                 
+RUE        RAMAKMAO                   
+RUE        DES REFUGIES               
+REMPART    RFO                        
+RUE        SABILI                     
+RUE        DE LA REUNION              
+RUELLE     BAITI SALAMA               
+RUE        FOUNDI SALIME              
+RUELLE     SANDRAGON                  
+RUE        SANDRAVOINGUE              
+RUELLE     SARMADA                    
+IMPASSE    DE LA SIRF                 
+RUE        DU SMIAM                   
+PTTE       FOUNDI SOUBIRA             
+IMPASSE    COCO SOUKARI               
+RUE        DU STADE                   
+RUELLE     CHEIKH SUBRA               
+RUE        DE TAHITI                  
+RUE        TCHAGNILTROU               
+RUELLE     TCHORA                     
+RUE        DE LA TELECOMMUNICATION    
+RUE        TROTRONDJEOU               
+RUE        TSIMANA                    
+RUE        DU TUNNEL                  
+RUE        DE LA VIGIE                
+RUE        VITA LEMENGO               
+PTTE       VOINTAIL                   
+RUE        WANAISSA                   
+RUELLE     YAHAYA                     
+PLACE      YAHAYA                     
+CHEMIN     DES YLANGS                 
+RUE        ZAKIA                      
+RUE        ZAMET                      
+RUE        M'ZAZAVERI                 
+           commune :     SADA                           departement : MAYOTTE                       
+QUA        GRANDE MOSQUEE - MANGAJOU  
+QUA        JOGONI - MANGAJOU          
+QUA        CAMICASE                   
+QUA        CAVANI - MANGAJOU          
+QUA        CITADELLE                  
+QUA        COMOJOU                    
+QUA        GNAMBOTITI                 
+QUA        HAMZIMANBE                 
+QUA        M'KAFENI                   
+QUA        M'LIMANI                   
+LIEU-DIT   AFRIQUE                    
+LIEU-DIT   BANDRAJOU                  
+LIEU-DIT   BANDRANI                   
+LIEU-DIT   CAVANI                     
+LIEU-DIT   COUNOUNI                   
+LIEU-DIT   DOUJA BOUNDOUKI            
+LIEU-DIT   DOUJANI                    
+LIEU-DIT   DZIA N'GUIZI               
+LIEU-DIT   GUITRONI DOUJANI           
+LIEU-DIT   HAGNAKAOUE                 
+LIEU-DIT   HALIMAJA                   
+LIEU-DIT   HAPOUINDZI                 
+LIEU-DIT   ILOT DE SADA               
+LIEU-DIT   KOMOJOU                    
+LIEU-DIT   KOTRAKA MENOUROU           
+LIEU-DIT   LOLANI                     
+LIEU-DIT   MANGAJOU                   
+LIEU-DIT   M'JAHAJAHA                 
+LIEU-DIT   MOMONI                     
+LIEU-DIT   M'TSAGNOUNI                
+LIEU-DIT   M'TSANGACHEHI              
+LIEU-DIT   M'TSANGAMTITI              
+LIEU-DIT   N'GOUNI                    
+LIEU-DIT   PANGOUA BOLE               
+LIEU-DIT   TRELENI                    
+LIEU-DIT   VILLAGE DE MANGAJOU        
+LIEU-DIT   VILLAGE DE SADA            
+LIEU-DIT   YMERE                      
+PLACE      DE L ARTISANAT             
+RUE        DES AMOUREUX               
+TRA        ABDOU MCOLO                
+RUE        TOILIBOU ABDALLAH          
+IMPASSE    AFRIQUE                    
+ESC        ISSOUF ALI                 
+RUE        MAIRIE ANNEXE - MANGAJOU   
+RUE        DE L'ARTISANAT             
+CHEMIN     LE BAOBAB                  
+RUE        BANDRAJOU                  
+RUE        BANDRANI                   
+RUE        DE LA BAIE                 
+CHEMIN     BOYE MA ASSANI             
+RUE        ABDALLAH ATTOUMANI         
+RUE        YOUNOUSSA BAMANA           
+CHEMIN     BAMDALLAH                  
+ESC        MANGA BANDRA               
+ESC        BANDRAJOU                  
+ESC        BANDRANI                   
+CHEMIN     BAOUTSIO                   
+ESC        BARABIANTI                 
+CHEMIN     HAGNAKAWE LES BAS          
+CHEMIN     COCO DHOI                  
+CHEMIN     COMOJOU                    
+CHEMIN     DU CIMETIERE               
+CHEMIN     DU COLLEGE                 
+RUE        CAMICAZ                    
+RUE        CHARLES DE GAULLE          
+RUELLE     BATTOU                     
+CHEMIN     MA BAWO                    
+RUE        COCO BE                    
+RUE        DE KAVANI-BOULANGERIE SADA 
+IMPASSE    BERTRAM                    
+RUE        DE LA BIBLIOTHEQUE         
+RUE        ASMINI BOINA               
+CHEMIN     FATIMA BOINAHERY           
+CHEMIN     M'FENESSI WA BOLE          
+SENTIER    BABA BOURA                 
+ESC        M'BOUYOUJOU                
+CHEMIN     DEPARTEMENTAL 7 - MANGAJOU 
+CHEMIN     DOMOELI                    
+ESC        MA DHURARI                 
+RUE        DOUJA BOUNDOUKI            
+SENTIER    DOUJA BOUNDOUKI            
+RUE        DU COLLEGE                 
+CHEMIN     MA CAMARIA                 
+RUE        ARDHUI CHAMI               
+CHEMIN     SOILIHI CHANFI             
+RUE        BOUSTOINI CHANFI           
+CHEMIN     MR CHARIFOU                
+CHEMIN     DE L ECOLE PRIMAIRE SADA 1 
+IMPASSE    DU CIMETIERE               
+RUE        CITADELLE - MANGAJOU       
+ALLEE      COCOTIER                   
+RUE        DU COMMERCE                
+ALLEE      COUTROUZAHARI              
+CHEMIN     FRAMPE                     
+SENTIER    FRAPPE MRO BOLLE           
+RUE        DE L'ANCIEN DISPENSAIRE    
+RUELLE     FOUNDI DJADI               
+RUE        ZAMA DJINE                 
+RUE        DOMOELI                    
+IMPASSE    DOUJABOUNDOUKI             
+ESC        GRAND CADI                 
+IMPASSE    GISCARD                    
+IMPASSE    DU 101 EME                 
+RUE        HAMADA GERA                
+ALLEE      DU GOLF                    
+CHEMIN     HACHIME                    
+CHEMIN     ABDOU HAFIDOU              
+ESC        ALI HALIDI                 
+RUE        HAMZIMAMBE                 
+CHEMIN     MAMADI HAROUSSI            
+RUE        CAMICAZ LES HAUTS          
+RUE        HAGNAKAWE LES HAUTS        
+CHEMIN     HAMOITSUONO                
+CHEMIN     HANYAKAOU LES HAUTS        
+CHEMIN     HANZIMAMBE                 
+CHEMIN     MA HOUFRAM                 
+ESC        HASSANA FATIHOU            
+RUE        HAMADA SALIM               
+ESC        MA HOUFRANI                
+ALLEE      FOUNDI IDAROUSSI           
+RUE        DANIEL KAMARDINE           
+RUE        DU LAGON                   
+CHEMIN     LOLANI                     
+CHEMIN     ISSIJIVA                   
+RUE        DU LYCEE - MANGAJOU        
+ESC        MADEDE                     
+IMPASSE    MAGNASSINI                 
+CHEMIN     TITI MAHALIMA              
+ESC        MAHIYARI                   
+RUE        DE LA MAIRIE               
+ALLEE      BACOCO MAMARI              
+ESC        MAMGONGO                   
+ESC        MAMSIMA                    
+CHEMIN     FOUNDI BA MANSSOIBOU       
+PLACE      DU 29 MARS                 
+ESC        MASMINI                    
+IMPASSE    MAVADZANI                  
+RUE        MANGA MISTARI              
+ROUTE      DE MKAFEINI                
+RUE        DE KAVANI                  
+RUE        M KAFENI                   
+ESC        MOIBOUROU                  
+CHEMIN     MOIRKACHA                  
+ESC        MOIRKACHA                  
+ESC        MA MOITA                   
+RUE        M LIMANI                   
+CHEMIN     MAHABA MANZILI             
+CHEMIN     MAHABADI ACHIRAFI          
+CHEMIN     MOHAMADA NAFISSA           
+CHEMIN     MVOUHOU JOU                
+ESC        DE LA MAIRIE               
+ESC        MANGA BADRA                
+ESC        MARCHAND                   
+ESC        MVOUHOUJOU                 
+RUE        DE LA MOSQUEE - MANGAJOU   
+RUE        DE LA MOSQUEE BANDRANI     
+RUE        MOSQUEE DU VENDREDI - MANG 
+RUE        MOIRKACHA                  
+RUE        MTSANGANI                  
+SENTIER    DE LA MAIRIE               
+SENTIER    MAVADZINI                  
+SENTIER    MBOUYOUJOU                 
+SENTIER    MNADZI                     
+SENTIER    MTSANGANI                  
+SENTIER    MTSINAVOU                  
+CD         5                          
+ESC        OUSSINEJOU                 
+RUE        OUSNEJOU                   
+N          2                          
+CHEMIN     DU RESERVOIR               
+CHEMIN     ROUKIA MADI                
+SENTIER    RASSI                      
+ESC        SAID ALI BARERA            
+CHEMIN     TAP OU                     
+CHEMIN     TSIGOY                     
+ESC        TUYONI                     
+ROUTE      DE LA MOSQUEE              
+RUE        DES MOSQUEES - MANGAJOU    
+ESC        MNADZI MOUNDRA             
+SENTIER    MROMBOLE                   
+ESC        HAMADA MTAGNA              
+ESC        MAHAMADA NAFISSA           
+ESC        COCO NDIWA                 
+CHEMIN     OUSSINEJOU                 
+CHEMIN     PAPACHARI                  
+IMPASSE    DE LA RIVIERE - MANGAJOU   
+ALLEE      M'ROMBOLE                  
+ALLEE      ECOLE SADA 1               
+ESC        ECOLE SADA 3               
+RUE        OUSSEINI SAID              
+ESC        SAKOUAJOU                  
+ALLEE      MA SANDI                   
+CHEMIN     BABA SELE                  
+ALLEE      MOHAMED SOILIHI            
+ALLEE      AHAMADA SOUMAILA           
+RUE        DU STADE                   
+ESC        TAPOU                      
+CHEMIN     MA TAWA                    
+ESC        TCHANAZI                   
+CHEMIN     TCHETCHENI - MANGAJOU      
+RUE        TSIGOY                     
+CHEMIN     VOUMOJA                    
+CHEMIN     BOYE MA ZAINA              
+ESC        COCO MA ZAINA              
+CHEMIN     MA ZANABOU                 
+           commune :     TSINGONI                       departement : MAYOTTE                       
+QUA        BOBOKA                     
+QUA        FOYER                      
+QUA        MBOUYOUJOU                 
+QUA        MKAFENI                    
+QUA        CAFENI                     
+QUA        LES CENT VILLAS            
+QUA        DOUJANI                    
+QUA        DZAOUDZI                   
+QUA        GOLF LES YLANGS            
+QUA        HADOUME                    
+QUA        ROVENI                     
+LOT        LES YLANGS                 
+LIEU-DIT   BAJONI                     
+LIEU-DIT   BOUDRAGUELA                
+LIEU-DIT   BOUGANI                    
+LIEU-DIT   CAVANI TSINGONI            
+LIEU-DIT   CHAJOU                     
+LIEU-DIT   CHAMBA                     
+LIEU-DIT   CHIRINI                    
+LIEU-DIT   COMBANI                    
+LIEU-DIT   DIDIONI                    
+LIEU-DIT   DZIANI                     
+LIEU-DIT   DZOUCOUDROUNI              
+LIEU-DIT   GAGANI                     
+LIEU-DIT   GITRO LAMOUHAJOU           
+LIEU-DIT   HACHENOI                   
+LIEU-DIT   HAOILA                     
+LIEU-DIT   HAOUTOUNGOU                
+LIEU-DIT   KARIHANI                   
+LIEU-DIT   KITANINI                   
+LIEU-DIT   LAZARE                     
+LIEU-DIT   MABOUNGANI                 
+LIEU-DIT   MABOUNGANI II              
+LIEU-DIT   MAGNASSINI                 
+LIEU-DIT   MAGNASSINI II              
+LIEU-DIT   MANDANI                    
+LIEU-DIT   MANGABE                    
+LIEU-DIT   MIRERENI                   
+LIEU-DIT   MLIMA DIGO                 
+LIEU-DIT   MROALE                     
+LIEU-DIT   NGOUNASSAHA                
+LIEU-DIT   NGOUNGANI                  
+LIEU-DIT   OCHOUNGUI                  
+LIEU-DIT   RESERVE FORESTIERE COMBANI 
+LIEU-DIT   SOULOU                     
+LIEU-DIT   SOULOU CHIRINI             
+LIEU-DIT   TSINGONI                   
+LIEU-DIT   VALBOEUF                   
+LIEU-DIT   VILLAGE DE TSINGONI        
+LIEU-DIT   ZIDAKANI                   
+LIEU-DIT   ZISONCONI                  
+IMPASSE    ANCIEN MROALE - MROULE     
+PASSAGE    DEL ANCIEN DISPENSAIRE -CO 
+PLACE      ABDOU MADI BACAR - COMBANI 
+RUE        ABDALLAH MASSANGARI - MIRE 
+RUE        ABDALLAH MASSANGARI - COMB 
+RUE        DU DOCTEUR ABOU - COMBANI  
+RUELLE     AHAMAMADA ALI - MROULE     
+CHEMIN     BOINA MZE - COMBANI        
+PASSAGE    BACAR MBALIA - COMBANI     
+RUE        BA BOUENI MARIE - MIRERENI 
+RUE        BA BOUENI MARIE - COMBANI  
+RUE        BOUDRAGUELA - COMBANI      
+RUE        BOUDRAGUELA - MIRERENI     
+RUE        BADJONI - COMBANI          
+RUE        DE LA BIBLIOTHEQUE - MROUL 
+RUE        DU BARRAGE - MIRERENI      
+RUELLE     BACOCO DAOU - MIRERENI     
+RUELLE     BASSIN - MIRERENI          
+CHEMIN     COCO MABOUDOU - COMBANI    
+IMPASSE    DU COLLEGE - MROUALE       
+RUE        CHEF OUSSENI - COMBANI     
+RUE        DE COCONI - COMBANI        
+RUE        DES CHAMPS FLEURIS - MROUL 
+RUE        DU CIMETIERE - MIRERENI    
+RUE        DU COMMERCE - COMBANI      
+RUE        DU COMMERCE - MIRERENI     
+RUELLE     CHECHOU MARI - MIRERENI    
+RUELLE     CHEFOU - MIRERENI          
+RUELLE     COCO SALOUA - MROULE       
+RUELLE     COCOICHEFOU - MIRERENI     
+RUELLE     MA CHINGO - MIRERENI       
+RUE        DINAHOU - MIRERENI         
+RUE        DU DECASE - COMBANI        
+RUE        DU DEPOT - COMBANI         
+RUE        DU DEPOT - MIRERENI        
+RUE        MADA ALI DONGONI - COMBANI 
+RUE        MADI DJENDE - COMBANI      
+RUELLE     BACOCO DAOU - COMBANI      
+RUELLE     DIGO - MIRERENI            
+IMPASSE    ETPC - COMBANI             
+RUE        DE L ECOLE PRIMAIRE - MIRE 
+PASSAGE    FATIMA ISSA - COMBANI      
+RUE        DE LA FERME - MROULE       
+RUE        FOUNDI HAMIDOU - COMBANI   
+ROUTE      DU GOLFE - MROUALE         
+ROUTE      DU GOLFE - COMBANI         
+BOULEVARD  AMIRALE DE HELLE - COMBANI 
+CHEMIN     HAZOU - COMBANI            
+IMPASSE    HATUBE - COMBANI           
+RUE        HAMCHIRIMA - COMBANI       
+RUE        HAOULEDI - COMBANI         
+RUE        HAOUTOUNGOU - COMBANI      
+RUELLE     HANGUA TAHI - MROUALE      
+CHEMIN     KARBALA - COMBANI          
+BOULEVARD  DE LA LIBERTE - COMBANI    
+CHEMIN     LOPA - COMBANI             
+RUE        LANGUIS - COMBANI          
+RUE        MADI LIHADJI - COMBANI     
+ROUTE      DU MOULIN - COMBANI        
+AVENUE     DE LA MOSQUEE - MROUALE    
+BOULEVARD  MFILAOUNI - COMBANI        
+CHEMIN     MOIDZIWA - COMBANI         
+CHEMIN     MRONI MOILA  - MIRERENI    
+CHEMIN     MRONI MOILA - COMBANI      
+IMPASSE    MADI BOINA - COMBANI       
+IMPASSE    MBAMA - COMBANI            
+PASSAGE    ABDOU MBEKI - COMBANI      
+PASSAGE    MBABA ACHI - COMBANI       
+RUE        LOTISSEMENT MKOILE - MIRER 
+RUE        MANDELLA - COMBANI         
+RUE        MANDELLA - MIRERENI        
+RUE        MDJASSIRI - COMBANI        
+RUE        MIHARE - COMBANI           
+RUE        MINADZI - COMBANI          
+RUE        MOIMBA - MIRERENI          
+RUE        MOUBOUKINI - COMBANI       
+RUE        MPERAJOU - COMBANI         
+PASSAGE    MOINAGAYA - COMBANI        
+RUE        MRONI MOILA - MIRERENI     
+RUE        MROUDJAE - COMBANI         
+RUELLE     DE LA MATERNELLE - COMBANI 
+RUELLE     MABOUROUKOU- COMBANI       
+RUELLE     MAGONGONI - MIRERENI       
+RUELLE     MOSQUEE 2 - MIRERENI       
+RUELLE     MRAFENI - MIRERENI         
+RUE        MOSQUEE DU VENDREDI - TSIN 
+IMPASSE    NTEHORA - COMBANI          
+RUE        NARALALE - COMBANI         
+IMPASSE    SALIM OUSSENI - MIRERENI   
+CHEMIN     DE LA PLACE PUBLIQUE - MRO 
+IMPASSE    DU PLATEAU - COMBANI       
+PASSAGE    LA POPOTE - COMBANI        
+RUE        DE LA POMPA - COMBANI      
+RUE        DU PETIT BAZAR - COMBANI   
+RUE        MA POMPEA - COMBANI        
+RUE        POMME CANNELLE - COMBANI   
+ROUTE      PRINCIPALE - MIRERENI      
+RUE        RETENUE COLLINAIRE - COMBA 
+RUE        DE LA ROSE - MROUALE       
+IMPASSE    SMA - COMBANI              
+PASSAGE    SAKINA - COMBANI           
+RUE        DE LA SANTE - COMBANI      
+RUE        DE LA SIM - COMBANI        
+RUE        DU STADE - MROUALE         
+IMPASSE    TROPINA - MIRERENI         
+RUELLE     TANIMAROZA - MROUALE       
+RUE        CHAMPS DES YLANGS - COMBAN 
+RUE        CHAMPS DES YLANGS - MROUAL 
+RUE        AU ZALE - COMBANI          
+RUE        ZALIA MDALLAD - COMBANI    
+RUELLE     ZENABOU BAMBOU - MIRERENI  
+RUELLE     ZENABOU BAMBOU - COMBANI   
+CD         3                          
+CD         1                          
+CD         1A                         
+           nombre de communes = 17 
